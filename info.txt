@@ -1,0 +1,11 @@
+Author:		Ruslan Brest, http://rb.labtodo.com/opencart-1505-russian-language-pack
+Created:	2011-07-17
+Modified:	2011-07-29
+
+Based on:
+Russian Language pack for Opencart v1.5.0.5 by alsrmurad (22 June 2011)
+http://www.opencart.com/index.php?route=extension/extension/info&extension_id=2410
+
+See also:
+* SVN: https://www.assembla.com/code/ocstoreru/subversion/nodes
+* http://opencartforum.ru/topic/3553-ищу-русский-язык-для-opencart-version-150/page__st__20
