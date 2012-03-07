@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']  = 'Доставка по городу';
-$_['text_weight'] = 'Вес:';
+$_['text_title']  = 'Citylink';
+$_['text_weight'] = 'Weight:';
 ?>

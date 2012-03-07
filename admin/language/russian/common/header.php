@@ -16,6 +16,7 @@ $_['text_coupon']						= 'Купоны';
 $_['text_currency']						= 'Валюты';
 $_['text_customer']						= 'Покупатели';
 $_['text_customer_group']				= 'Группы покупателей';
+$_['text_customer_blacklist']          = 'IP Blacklist';
 $_['text_dashboard']					= 'Обзор';
 $_['text_design']						= 'Дизайн';
 $_['text_download']						= 'Файлы для скачивания';

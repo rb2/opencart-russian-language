@@ -4,6 +4,7 @@ $_['heading_title']    		= 'Почта';
 
 // Text
 $_['text_success']     		= 'Ваше сообщение отправлено!';
+$_['text_sent']            = 'Your message has been successfully sent to %s of %s recipetants!';
 $_['text_default']     		= 'По умолчанию';
 $_['text_newsletter']  		= 'Подписчики на новости';
 $_['text_customer_all']    	= 'Все покупатели';

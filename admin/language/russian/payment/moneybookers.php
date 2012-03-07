@@ -23,5 +23,5 @@ $_['entry_sort_order']        = 'Sort Order:';
 // Error
 $_['error_permission']	      = 'Warning: You do not have permission to modify Moneybookers!';
 $_['error_email']		      = 'E-Mail Required!';
-$_['error_secret']		      = 'Secret Key Required!';
+// $_['error_secret']		      = 'Secret Key Required!';
 ?>

@@ -12,6 +12,7 @@ $_['text_fail']          = 'Always Fail';
 
 // Entry
 $_['entry_merchant']     = 'Merchant ID:';
+$_['entry_password']     = 'Remote Password:<br /><span class="help">Leave empty if you do not have "Digest Key Authentication" enabled on your account.</span>';
 $_['entry_test']         = 'Test Mode:';
 $_['entry_total']        = 'Total:<br /><span class="help">The checkout total the order must reach before this payment method becomes active.</span>';
 $_['entry_order_status'] = 'Order Status:';

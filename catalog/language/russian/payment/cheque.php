@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_title']   		= 'Чек / Наличные';
-$_['text_instruction']  = 'Инструкции по Чеку / Наличным';
-$_['text_payable'] 		= 'Получатель: ';
-$_['text_address'] 		= 'Адрес: ';
-$_['text_payment'] 		= 'Заказ не будет обработан, пока деньги не поступят на наш счет.';
+$_['text_title']       = 'Cheque / Money Order Instructions';
+$_['text_instruction'] = 'Cheque / Money Order';
+$_['text_payable']     = 'Make Payable To: ';
+$_['text_address']     = 'Send To: ';
+$_['text_payment']     = 'Your order will not ship until we receive payment.';
 ?>

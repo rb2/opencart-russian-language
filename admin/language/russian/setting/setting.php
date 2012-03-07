@@ -36,8 +36,8 @@ $_['entry_admin_limit']   	  = 'Элементов на страницу (Адм
 $_['entry_tax']               = 'Отображать цены с налогом:';
 $_['entry_tax_default']       = 'Использовать налоговый адрес магазина:<br /><span class="help">Использовать адрес магазина для вычисления налогов если пользователь не залогинен. Вы можете выбрать использование адреса магазина в качестве адреса доставки или платежа покупателя.</span>';
 $_['entry_tax_customer']      = 'Использовать налоговый адрес покупателя:<br /><span class="help">Использовать дефолтный адрес покупателя, когда они залогинены, для подсчёта налогов. Вы можете выбрать использование выбранного по умолчанию адреса покупателя для адреса доставки или платежа покупателя.</span>';
-$_['entry_invoice']           = 'Начальный № счета-фактуры:<br /><span class="help">Установите стартовый номер счета-фактуры.</span>';
 $_['entry_invoice_prefix']    = 'Префикс счета-фактуры:<br /><span class="help">Установите префикс счета-фактуры. Пример: INV-2011-00</span>';
+$_['entry_order_edit']         = 'Order Editing:<br /><span class="help">Number of days allowed to edit an order. This is required because prices and discounts may change over time corrupting the order if its edited.</span>';
 $_['entry_customer_group']    = 'Группа покупателей:<br /><span class="help">Группа покупателей по умолчанию.</span>';
 $_['entry_customer_price']    = 'Показывать цены только залогиненным:<br /><span class="help">Показывать цены только зарегистрированнным клиентам.</span>';
 $_['entry_customer_approval'] = 'Активация новых пользователей:<br /><span class="help">Не позволять входить новым клиентам под своим логином и паролем до одобрения аккаунта.</span>';
@@ -63,7 +63,6 @@ $_['entry_image_category']    = 'Размер изображения в спис
 $_['entry_image_thumb']       = 'Размер большого изображения товара:';
 $_['entry_image_popup']       = 'Размер всплывающего изображения товара:';
 $_['entry_image_product']     = 'Размер изображения в списке товаров:';
-// $_['entry_image_manufacturer']  = 'Размер изображения в списке производителей:';
 $_['entry_image_additional']  = 'Размер дополнительных изображений товаров:';
 $_['entry_image_related']     = 'Размер изображения аналогичных товаров:';
 $_['entry_image_compare']       = 'Размер изображения в списке сравнения:';
@@ -76,12 +75,15 @@ $_['entry_smtp_username']     = 'SMTP логин:';
 $_['entry_smtp_password']     = 'SMTP пароль:';
 $_['entry_smtp_port']         = 'SMTP порт:';
 $_['entry_smtp_timeout']      = 'SMTP таймаут:';
-$_['entry_alert_mail']        = 'Оповещение о заказе по E-mail:<br /><span class="help">Оповестить владельца магазина о новом заказе.</span>';
 $_['entry_account_mail']      = 'Оповещение о новом клиенте:<br /><span class="help">Оповестить владельца магазина о регистрации нового клиента.</span>';
+$_['entry_alert_mail']        = 'Оповещение о заказе по E-mail:<br /><span class="help">Оповестить владельца магазина о новом заказе.</span>';
 $_['entry_alert_emails']      = 'Дополнительные адреса для оповещений:<br /><span class="help">Список дополнительных адресов для получения сообщений от системы. (Разделяются запятыми)</span>';
+$_['entry_fraud_detection']    = 'Use MaxMind Fraud Detection System:<br /><span class="help">MaxMind is a fraud detections service. If you don\'t have a license key you can <a onclick="window.open(\'http://www.maxmind.com/?rId=opencart\');"><u>sign up here</u></a>. Once you have obtained a key copy and paste it into the field below.</span>';
+$_['entry_fraud_key']          = 'MaxMind License Key:</span>';
+$_['entry_fraud_score']        = 'MaxMind Risk Score:<br /><span class="help">The higher the score the more likly the order is fraudulent. Set a score between 0 - 100.</span>';
+$_['entry_fraud_status']       = 'MaxMind Fraud Order Status:<br /><span class="help">Orders over your set score will be assigned this order status and will not be allowed to reach the complete status automatically.</span>';
 $_['entry_use_ssl']           = 'Использовать SSL:<br /><span class="help">Для использования SSL убедитесь что Ваш хостинг поддерживает SSL сертификат и пропишите SSL адреса в файле конфигурации.</span>';
 $_['entry_seo_url']           = 'Включить SEO URL:<span class="help">Необходимо настроить файл .htaccess в корневом каталоге магазина</span>';
-
 $_['entry_maintenance']       = 'Режим обслуживания:<br /><span class="help">Отключает отображение магазина клиентам. Им будет отображаться сообщение об обслуживании. После авторизации админом, магазин будет нормально отображаться.</span>';
 $_['entry_encryption']        = 'Ключ шифрования:<br /><span class="help">Ключ, который будет использоваться для шифрования конфиденциальной информации при обработке заказов.</span>';
 $_['entry_compression']       = 'Уровень сжатия:<br /><span class="help">Задайте значение от 0 до 9.</span>';
