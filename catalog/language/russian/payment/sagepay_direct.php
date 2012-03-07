@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_title']           = 'Credit Card / Debit Card (SagePay)';
-$_['text_credit_card']     = 'Credit Card Details';
-$_['text_start_date']      = '(if available)';
-$_['text_issue']           = '(for Maestro and Solo cards only)';
-$_['text_wait']            = 'Please wait!';
+$_['text_title']           = 'Кредитная карта / Дебетовая карта (SagePay)';
+$_['text_credit_card']     = 'Данные кредитной карты';
+$_['text_start_date']      = '(если доступно)';
+$_['text_issue']           = '(только для карт Maestro и Solo)';
+$_['text_wait']            = 'Пожалуйста, подождите!';
 
 // Entry
 $_['entry_cc_owner']       = 'Card Owner:';

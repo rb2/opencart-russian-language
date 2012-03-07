@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (CCNow)';
+$_['text_title'] = 'Кредитная карта / Дебетовая карта (CCNow)';
 ?>
