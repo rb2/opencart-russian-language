@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (Mal\'s e-commerce)';
+$_['text_title'] = 'Кредитная карта / Дебетовая карта (Mal\'s e-commerce)';
 ?>

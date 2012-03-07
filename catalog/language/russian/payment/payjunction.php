@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (PayJunction)';
+$_['text_title'] = 'Кредитная карта / Дебетовая карта (PayJunction)';
 ?>

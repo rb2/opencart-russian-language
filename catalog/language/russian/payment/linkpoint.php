@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (LinkPoint)';
+$_['text_title'] = 'Кредитная карта / Дебетовая карта (LinkPoint)';
 ?>
