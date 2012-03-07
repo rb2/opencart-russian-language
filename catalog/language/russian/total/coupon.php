@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title'] = 'Применить Код скидки';
 // Text
 $_['text_coupon']   = 'Купон (%s):';

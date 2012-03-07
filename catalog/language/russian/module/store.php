@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title'] = 'Выберите магазин';
 // Text
 $_['text_default']  = 'Основной';

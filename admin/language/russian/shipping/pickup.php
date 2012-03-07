@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']    = 'Самовывоз';
 
-// Text 
+// Text
 $_['text_shipping']    = 'Доставка';
 $_['text_success']     = 'Настройки модуля обновлены!';
 

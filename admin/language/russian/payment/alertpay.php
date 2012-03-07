@@ -2,10 +2,10 @@
 // Heading
 $_['heading_title']      = 'AlertPay';
 
-// Text 
+// Text
 $_['text_payment']       = 'Оплата';
 $_['text_success']       = 'Выполнено: Вы изменили настройки счета AlertPay!';
-      
+
 // Entry
 $_['entry_merchant']     = 'Merchant ID:';
 $_['entry_security']     = 'Security Code:';

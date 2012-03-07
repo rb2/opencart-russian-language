@@ -1,4 +1,4 @@
-<?php 
+<?php
 // Heading
 $_['heading_title']    = 'Доставка с оплатой за единицу';
 

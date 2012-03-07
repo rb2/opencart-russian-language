@@ -21,7 +21,7 @@ $_['text_year']                    	= 'Последний год';
 $_['text_order']                   	= 'Всего заказов';
 $_['text_customer']                	= 'Всего покупателей';
 
-// Column 
+// Column
 $_['column_order']                 	= '№ заказа';
 $_['column_customer']              	= 'Покупатель';
 $_['column_status']                	= 'Статус';

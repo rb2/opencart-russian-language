@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']        = 'Регистрация';
 // Text
 $_['text_account']         = 'Личный Кабинет';

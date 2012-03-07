@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']      = 'Банковский перевод';
 
-// Text 
+// Text
 $_['text_payment']       = 'Оплата';
 $_['text_success']       = 'Настройки модуля обновлены!';
 

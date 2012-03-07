@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']    = 'Бесплатная доставка';
 
-// Text 
+// Text
 $_['text_shipping']    = 'Бесплатная доставка';
 $_['text_success']     = 'Настройки модуля обновлены!';
 

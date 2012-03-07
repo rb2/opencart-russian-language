@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title'] = 'Информация';
 // Text
 $_['text_contact']  = 'Связаться с нами';

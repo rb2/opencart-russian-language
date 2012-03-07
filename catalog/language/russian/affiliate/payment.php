@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']             = 'Способ оплаты';
 // Text
 $_['text_account']              = 'Кабинет Партнера';

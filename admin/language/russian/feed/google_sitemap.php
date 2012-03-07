@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']    = 'Google Sitemap';
 
-// Text 
+// Text
 $_['text_feed']        = 'Каналы продвижения';
 $_['text_success']     = 'Настройки модуля обновлены!';
 

@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title'] = 'Выход из Кабинета Партнера';
 
 // Text

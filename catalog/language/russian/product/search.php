@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Поиск'; 
+$_['heading_title']     = 'Поиск';
 // Text
 $_['text_search']       = 'Товары, соответствующие критериям поиска';
 $_['text_keyword']      = 'Ключевые слова';
@@ -13,9 +13,9 @@ $_['text_manufacturer'] = 'Производитель:';
 $_['text_model']        = 'Модель:';
 $_['text_points']       = 'Бонусные баллы:';
 $_['text_price']        = 'Цена:';
-$_['text_tax']          = 'Без НДС:'; 
-$_['text_reviews']      = 'На основе %s отзывов.'; 
-$_['text_compare']      = 'Сравнение (%s)'; 
+$_['text_tax']          = 'Без НДС:';
+$_['text_reviews']      = 'На основе %s отзывов.';
+$_['text_compare']      = 'Сравнение (%s)';
 $_['text_display']      = 'Отображение:';
 $_['text_list']         = 'Список';
 $_['text_grid']         = 'Сетка';

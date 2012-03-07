@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']          = 'Товары';
 
-// Text  
+// Text
 $_['text_success']           = 'Список товаров обновлен!';
 $_['text_plus']              = '+';
 $_['text_minus']             = '-';

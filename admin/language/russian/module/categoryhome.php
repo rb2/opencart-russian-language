@@ -14,7 +14,7 @@ $_['text_content_bottom'] = 'Низ страницы';
 
 // Entry
 $_['entry_category']      = 'Родительская категория:';
-$_['entry_limit']         = 'Лимит:'; 
+$_['entry_limit']         = 'Лимит:';
 $_['entry_image']         = 'Изображение (ширина x высота):';
 $_['entry_layout']        = 'Страница:';
 $_['entry_position']      = 'Расположение:';

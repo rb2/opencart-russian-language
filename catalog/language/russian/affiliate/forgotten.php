@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']   = 'Забыли пароль?';
 // Text
 $_['text_account']    = 'Кабинет Партнера';

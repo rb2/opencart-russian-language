@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']    = 'Подарочный сертификат';
 // Text
 $_['text_voucher']     = 'Подарочный сертификат';

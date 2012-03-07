@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title'] = 'Использование бонусных баллов (доступно %s)';
 
 // Text
