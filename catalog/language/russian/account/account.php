@@ -1,6 +1,7 @@
 <?php
 // Heading
 $_['heading_title']      = 'Личный Кабинет';
+
 // Text
 $_['text_account']       = 'Личный Кабинет';
 $_['text_my_account']    = 'Моя учетная запись';
