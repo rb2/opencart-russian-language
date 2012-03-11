@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Рефералы Партнера';
+$_['heading_title']    = 'Реферальные ссылки';
 
 // Text
 $_['text_account']     = 'Кабинет Партнера';

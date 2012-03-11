@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_for']          = '%s Gift Certificate for %s';
-$_['text_success']      = 'Order totals has been successfully re-calculated!';
+$_['text_for']          = '%s Подарочный сертификат для %s';
+$_['text_success']      = 'Итоговая сумма заказа успешно изменена!';
 
 // Error
 $_['error_warning']     = 'Warning: Please check the form carefully for errors!';

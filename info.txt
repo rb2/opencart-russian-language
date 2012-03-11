@@ -1,9 +1,0 @@
-Author:		Ruslan Brest, http://rb.labtodo.com/opencart-1505-russian-language-pack
-Created:	2012-02-07
-Modified:	2012-02-16
-
-
-todo: admin
-
-sale/order
-setting/setting
