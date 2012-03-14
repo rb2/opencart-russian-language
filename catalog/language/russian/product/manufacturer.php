@@ -1,6 +1,7 @@
 <?php
 // Heading
 $_['heading_title']     = 'Найдите свой любимый бренд';
+
 // Text
 $_['text_brand']        = 'Бренд';
 $_['text_index']        = 'Алфавитный указатель:';

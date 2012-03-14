@@ -6,6 +6,7 @@ $_['heading_title']      = 'История выплат';
 $_['column_date_added']  = 'Добавлено';
 $_['column_description'] = 'Описание';
 $_['column_amount']      = 'Сумма (%s)';
+
 // Text
 $_['text_account']       = 'Кабинет Партнера';
 $_['text_transaction']   = 'Выплаты';

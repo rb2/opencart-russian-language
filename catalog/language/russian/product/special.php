@@ -1,6 +1,7 @@
 <?php
 // Heading
 $_['heading_title']     = 'Акции';
+
 // Text
 $_['text_empty']        = 'Нет специальных предложений.';
 $_['text_quantity']     = 'Кол-во:';

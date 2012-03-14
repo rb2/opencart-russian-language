@@ -1,6 +1,7 @@
 <?php
 // Heading
 $_['heading_title']     = 'Поиск';
+
 // Text
 $_['text_search']       = 'Товары, соответствующие критериям поиска';
 $_['text_keyword']      = 'Ключевые слова';
@@ -30,6 +31,7 @@ $_['text_rating_desc']  = 'Рейтинг (начиная с высокого)';
 $_['text_model_asc']    = 'Модель (А- Я)';
 $_['text_model_desc']   = 'Модель (Я - А)';
 $_['text_limit']        = 'Показать:';
+
 // Entry
 $_['entry_search']      = 'Поиск:';
 $_['entry_description'] = 'Искать в описании товаров';

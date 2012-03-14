@@ -1,6 +1,7 @@
 <?php
 // Heading
 $_['heading_title']     = 'Моя информация';
+
 // Text
 $_['text_account']      = 'Кабинет Партнера';
 $_['text_edit']         = 'Редактировать информацию';
@@ -22,6 +23,7 @@ $_['entry_postcode']    = 'Почтовый индекс:';
 $_['entry_city']        = 'Город:';
 $_['entry_country']     = 'Страна:';
 $_['entry_zone']        = 'Регион / Область:';
+
 // Error
 $_['error_exists']      = 'Такой E-Mail уже зарегистрирован!';
 $_['error_firstname']   = 'Имя должно быть от 1 до 32 символов!';

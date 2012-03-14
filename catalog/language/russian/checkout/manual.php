@@ -1,29 +1,29 @@
 <?php
 // Text
-$_['text_for']          = '%s Gift Certificate for %s';
-$_['text_success']      = 'Order totals has been successfully re-calculated!';
+$_['text_for']          = '%s Подарочный сертификат для %s';
+$_['text_success']      = 'Итоговая сумма заказа успешно изменена!';
 
 // Error
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']  = 'You do not have permission to access this page, please refer to your system administrator.';
-$_['error_customer']    = 'Warning: Can not find selected customer!';
-$_['error_email']       = 'E-Mail Address does not appear to be valid!';
-$_['error_postcode']    = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']     = 'Please select a country!';
-$_['error_zone']        = 'Please select a region / state!';
-$_['error_stock']       = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']     = 'Minimum order amount for %s is %s!';	
-$_['error_required']    = '%s required!';
-$_['error_shipping']    = 'Warning: Shipping method required!';
-$_['error_no_shipping'] = 'Warning: No Shipping options are available!';
-$_['error_payment']     = 'Warning: Payment method required!';
-$_['error_no_payment']  = 'Warning: No Payment options are available!';
-$_['error_coupon']      = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
-$_['error_voucher']     = 'Warning: Gift Voucher is either invalid or the balance has been used up!';
-$_['error_reward']      = 'Warning: Please enter the amount of reward points to use!';	
-$_['error_points']      = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']     = 'Warning: The maximum number of points that can be applied is %s!';
-$_['error_to_name']     = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']   = 'Your Name must be between 1 and 64 characters!';
-$_['error_amount']      = 'Amount must be between %s and %s!';
+$_['error_warning']     = 'Внимательно проверьте форму и исправьте ошибки!';
+$_['error_permission']  = 'У Вас нет прав для доступа к этой странице, обратитесь к системному администратору.';
+$_['error_customer']    = 'Не удается найти выбранного покупателя!';
+$_['error_email']       = 'E-Mail адрес введен неверно!';
+$_['error_postcode']    = 'Индекс должен быть от 2 до 10 символов!';
+$_['error_country']     = 'Пожалуйста, выберите страну!';
+$_['error_zone']        = 'Пожалуйста, выберите регион / область!';
+$_['error_stock']       = 'Товары, отмеченные ***, недоступны в нужном количестве или отсутствуют на складе!';
+$_['error_minimum']     = 'Минимальное количество для заказа товара %s составляет %s!';
+$_['error_required']    = 'Поле %s должно быть заполнено!';
+$_['error_shipping']    = 'Необходимо указать способ доставки!';
+$_['error_no_shipping'] = 'Доставка по данному адресу невозможна!';
+$_['error_payment']     = 'Необходимо указать способ оплаты!';
+$_['error_no_payment']  = 'Оплата по данному адресу невозможна!';
+$_['error_coupon']      = 'Ошибка: купон либо недействителен, либо истек срок его действия, либо достигнут предел его использования!';
+$_['error_voucher']     = 'Неверно указан код Подарочного Сертификата, либо он уже использован, либо истёк срок действия!';
+$_['error_reward']      = 'Укажите количество бонусных баллов, которые хотите использовать!';
+$_['error_points']      = 'У Вас нет %s бонусных баллов!';
+$_['error_maximum']     = 'Максимальное количество бонусных баллов, которые могут быть использованы, составляет %s!';
+$_['error_to_name']     = 'Имя получателя должно быть от 1 до 64 символов длиной!';
+$_['error_from_name']   = 'Ваше имя должно быть от  1 до 64 символов длиной!';
+$_['error_amount']      = 'Сумма должна быть от %s до %s!';
 ?>

@@ -1,6 +1,7 @@
 <?php
 // Heading
 $_['heading_title']   = 'Забыли пароль?';
+
 // Text
 $_['text_account']    = 'Кабинет Партнера';
 $_['text_forgotten']  = 'Забыли пароль?';

@@ -1,10 +1,10 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Shopping Cart';
+$_['heading_title'] = 'Корзина покупок';
 
 // Text
-$_['text_items']    = '%s item(s) - %s';
-$_['text_empty']    = 'Your shopping cart is empty!';
-$_['text_cart']     = 'View Cart';
-$_['text_checkout'] = 'Checkout';
+$_['text_items']    = 'Товаров: %s (%s)';
+$_['text_empty']    = 'Ничего не куплено!';
+$_['text_cart']     = 'Просмотр корзины';
+$_['text_checkout'] = 'Оформление заказа';
 ?>
