@@ -8,6 +8,6 @@ https://github.com/rb2/opencart-russian-language
 
 todo: admin
 
-sale/order
-setting/setting
+* sale/order (синхронизировано, надо перевести)
+* setting/setting
 
