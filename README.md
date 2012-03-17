@@ -7,7 +7,7 @@ https://github.com/rb2/opencart-russian-language
 ----
 
 todo: admin
+(синхронизировано, надо перевести)
 
-* sale/order (синхронизировано, надо перевести)
 * setting/setting
 
