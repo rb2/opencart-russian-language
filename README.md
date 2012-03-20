@@ -3,11 +3,3 @@
 https://github.com/rb2/opencart-russian-language
 
 История изменений (v1.5.2): https://github.com/rb2/opencart-russian-language/commits/v152
-
-----
-
-todo: admin
-(синхронизировано, надо перевести)
-
-* setting/setting
-
