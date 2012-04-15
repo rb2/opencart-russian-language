@@ -5,7 +5,7 @@ $_['heading_title']      = 'Klarna Part Payment';
 // Text
 $_['text_payment']       = 'Оплата';
 $_['text_success']       = 'Настройки модуля обновлены!';
-$_['text_klarna']	     = '<a onclick="window.open(\'http://www.klarna.com\');"><img src="view/image/payment/klarna.png" alt="Klarna" title="Klarna" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_klarna_pp']	 = '<a onclick="window.open(\'http://www.klarna.com\');"><img src="view/image/payment/klarna.png" alt="Klarna" title="Klarna" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_live']          = 'Live';
 $_['text_beta']          = 'Beta';
 
@@ -20,6 +20,7 @@ $_['entry_sort_order']	 = 'Порядок сортировки:';
 
 // Error
 $_['error_permission']    = 'У Вас нет прав для управления этим модулем!';
+$_['error_xmlrpc']        = 'Для работы требуется PHP расширение XML-RPC!';
 $_['error_merchant']      = 'Отсутствует Klarna Merchant ID!';
 $_['error_secret']        = 'Отсутствует Klarna Secret!';
 ?>
