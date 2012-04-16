@@ -1,6 +1,6 @@
 Author:		Ruslan Brest, http://rb.labtodo.com/opencart-1505-russian-language-pack
 Created:	2011-07-29
-Modified:	2012-04-14
+Modified:	2012-04-16
 
 See also:
 Коллективный перевод OpenCart для ocStore (русская сборка OpenCart)
