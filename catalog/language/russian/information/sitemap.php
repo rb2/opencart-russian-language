@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Карта сайта';
 // Text
 $_['text_special']     = 'Акции';
-$_['text_account']     = 'Личный кабинет';
+$_['text_account']     = 'Постоянный покупатель';
 $_['text_edit']        = 'Личная информация';
 $_['text_password']    = 'Пароль';
 $_['text_address']     = 'Мои адреса';
