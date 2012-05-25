@@ -2,4 +2,4 @@
 
 https://github.com/rb2/opencart-russian-language
 
-История изменений (v1.5.2): https://github.com/rb2/opencart-russian-language/commits/v152
+История изменений (v1.5.3): https://github.com/rb2/opencart-russian-language/commits/v153
