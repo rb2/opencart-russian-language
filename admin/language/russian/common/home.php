@@ -15,9 +15,9 @@ $_['text_total_review_approval']   	= 'Отзывов, ожидающих под
 $_['text_total_affiliate']          = 'Количество партнёров:';
 $_['text_total_affiliate_approval'] = 'Партнёров, ожидающих подтверждения:';
 $_['text_day']                     	= 'Сегодня';
-$_['text_week']                    	= 'Последние 7 дней';
-$_['text_month']                   	= 'Последний месяц';
-$_['text_year']                    	= 'Последний год';
+$_['text_week']                    	= 'На этой неделе';
+$_['text_month']                   	= 'Этот месяц';
+$_['text_year']                    	= 'Этот год';
 $_['text_order']                   	= 'Всего заказов';
 $_['text_customer']                	= 'Всего покупателей';
 
