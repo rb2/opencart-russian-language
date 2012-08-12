@@ -14,7 +14,7 @@ $_['text_remove_blacklist'] = 'Удалить из Blacklist';
 // Column
 $_['column_name']             = 'Имя покупателя';
 $_['column_email']            = 'E-Mail';
-$_['column_customer_group']   = 'Группа клиентов';
+$_['column_customer_group']   = 'Группа покупателей';
 $_['column_status']           = 'Статус';
 $_['column_login']            = 'Залогиниться в магазине';
 $_['column_approved']         = 'Активирован';
