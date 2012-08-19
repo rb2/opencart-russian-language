@@ -2,4 +2,5 @@
 cd ..
 git log --pretty=format:"%h %ci %s" > ./history.txt
 zip -r opencart-russian-lang-v1.5.1.3.zip admin catalog README.* history.txt info.txt
+cp opencart-russian-lang-v1.5.1.3.zip opencart-russian-v1.5.1.3.zip
 rm -f ./history.txt
