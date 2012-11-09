@@ -38,7 +38,7 @@ $_['entry_status']        = 'Статус:';
 
 // Error
 $_['error_permission']    = 'У Вас нет прав для изменения купонов!';
-$_['error_exists']        = 'Warning: Coupon code is already in use!';
+$_['error_exists']        = 'Указанный код купона уже используется!';
 $_['error_name']          = 'Имя купона должно быть от 3 до 128 символов!';
 $_['error_code']          = 'Код должен быть от 3 до 10 символов!';
 ?>

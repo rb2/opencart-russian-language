@@ -8,8 +8,8 @@ $_['text_default']            = 'По умолчанию';
 $_['text_approved']           = 'Вы активировали %s аккаунт!';
 $_['text_wait']               = 'Подождите!';
 $_['text_balance']            = 'Баланс:';
-$_['text_add_blacklist']    = 'Добавить в  Blacklist';
-$_['text_remove_blacklist'] = 'Удалить из Blacklist';
+$_['text_add_blacklist']      = 'Добавить в  Blacklist';
+$_['text_remove_blacklist']   = 'Удалить из Blacklist';
 
 // Column
 $_['column_name']             = 'Имя покупателя';
@@ -48,7 +48,7 @@ $_['entry_country']           = 'Страна:';
 $_['entry_zone']              = 'Регион / Область:';
 $_['entry_default']           = 'Адрес по умолчанию:';
 $_['entry_amount']            = 'Сумма:';
-$_['entry_points']            = 'Баллы:';
+$_['entry_points']            = 'Баллы:<br /><span class="help">Используйте минус для уменьшения баллов.</span>';
 $_['entry_description']       = 'Описание:';
 
 // Error

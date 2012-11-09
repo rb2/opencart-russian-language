@@ -64,7 +64,7 @@ $_['button_add_route']        = 'Добавить путь';
 $_['button_add_rule' ]        = 'Добавить правило';
 $_['button_add_module']       = 'Добавить модуль';
 $_['button_add_link']         = 'Добавить ссылку';
-$_['button_update_total']     = 'Update Totals';
+$_['button_update_total']     = 'Обновить итоговые суммы';
 $_['button_approve']          = 'Активировать';
 $_['button_reset']            = 'Сброс';
 

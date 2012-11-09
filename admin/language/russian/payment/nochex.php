@@ -22,7 +22,7 @@ $_['entry_status']       = 'Status:';
 $_['entry_sort_order']   = 'Sort Order:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment NOCHEX!';
-$_['error_email']        = 'E-Mail Required!';
-$_['error_merchant']     = 'Merchant ID Required!';
+$_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
+$_['error_email']        = 'Не заполнено поле E-Mail!';
+$_['error_merchant']     = 'Требуется Merchant ID!';
 ?>

@@ -12,7 +12,7 @@ $_['text_column_right']   = 'Правая колонка';
 
 // Entry
 $_['entry_product']       = 'Товары:<br /><span class="help">(Автодополнение)</span>';
-$_['entry_limit']         = 'Limit:';
+$_['entry_limit']         = 'Лимит:';
 $_['entry_image']         = 'Изображение (Ширина x Высота):';
 $_['entry_layout']        = 'Страница:';
 $_['entry_position']      = 'Расположение:';
