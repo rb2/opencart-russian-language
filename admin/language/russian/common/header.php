@@ -49,6 +49,7 @@ $_['text_report_sale_return']			= 'Возвраты';
 $_['text_report_sale_coupon']			= 'Купоны';
 $_['text_report_product_viewed']		= 'Просмотрено';
 $_['text_report_product_purchased']		= 'Куплено';
+$_['text_report_customer_online']		= 'Покупатели онлайн';
 $_['text_report_customer_order']		= 'Заказы';
 $_['text_report_customer_reward']		= 'Бонусные баллы';
 $_['text_report_customer_credit']		= 'Кредит';
