@@ -46,7 +46,7 @@ $_['entry_firstname']     = 'Имя, Отчество:';
 $_['entry_lastname']      = 'Фамилия:';
 $_['entry_email']         = 'E-Mail:';
 $_['entry_telephone']     = 'Телефон:';
-$_['entry_product']       = 'Товар:';
+$_['entry_product']       = 'Товар:<br /><span class="help">(автодополнение)</span>';
 $_['entry_model']         = 'Модель:';
 $_['entry_quantity']      = 'Количество:';
 $_['entry_reason']        = 'Причина возврата:';
@@ -59,7 +59,7 @@ $_['entry_action']        = 'Действие по возврату:';
 // Error
 $_['error_warning']       = 'Внимательно проверьте форму на ошибки!';
 $_['error_permission']    = 'У Вас нет прав для изменения возвратов!';
-$_['error_order_id']      = 'Order ID required!';
+$_['error_order_id']      = 'Укажите номер заказа!';
 $_['error_firstname']     = 'Имя должно быть от 1 до 32 символов!';
 $_['error_lastname']      = 'Фамилия должна быть от 1 до 32 символов!';
 $_['error_email']         = 'E-Mail адрес введен неверно!';
