@@ -15,8 +15,9 @@ $_['text_country']						= 'Страны';
 $_['text_coupon']						= 'Купоны';
 $_['text_currency']						= 'Валюты';
 $_['text_customer']						= 'Покупатели';
-$_['text_customer_group']				= 'Группы покупателей';
-$_['text_customer_blacklist']           = 'IP Blacklist';
+$_['text_customer_group']              = 'Группы покупателей';
+$_['text_customer_ban_ip']             = 'Banned IP';
+$_['text_custom_field']                = 'Custom Fields';
 $_['text_dashboard']					= 'Обзор';
 $_['text_design']						= 'Дизайн';
 $_['text_download']						= 'Файлы для скачивания';
@@ -75,10 +76,12 @@ $_['text_user']							= 'Пользователи';
 $_['text_documentation']				= 'Документация';
 $_['text_users']						= 'Пользователи';
 $_['text_user_group']					= 'Группы пользователей';
-$_['text_vqmod']                        = 'VQMOD';
 $_['text_voucher']						= 'Cертификаты';
 $_['text_voucher_theme']				= 'Тематика';
 $_['text_weight_class']					= 'Единицы веса';
 $_['text_length_class']					= 'Единицы измерения';
 $_['text_zone']							= 'Регионы';
+
+// --------
+$_['text_vqmod']                        = 'VQMOD';
 ?>

@@ -16,16 +16,16 @@ $_['text_percent']           = 'Процент';
 $_['text_amount']            = 'Фиксированная сумма';
 
 // Column
-$_['column_name']            	= 'Название товара';
-$_['column_model']           	= 'Модель';
-$_['column_image']           	= 'Изображения';
+$_['column_name']            = 'Название товара';
+$_['column_model']           = 'Модель';
+$_['column_image']           = 'Изображения';
 // Filter by category ADD
 $_['column_category']        = 'Category';
 // End add
-$_['column_price']           	= 'Цена на сайте';
-$_['column_quantity']        	= 'Количество';
-$_['column_status']          	= 'Статус';
-$_['column_action']          	= 'Действие';
+$_['column_price']           = 'Цена на сайте';
+$_['column_quantity']        = 'Количество';
+$_['column_status']          = 'Статус';
+$_['column_action']          = 'Действие';
 
 // Entry
 $_['entry_name']             = 'Название товара:';
@@ -48,8 +48,8 @@ $_['entry_date_available']   = 'Дата поступления:';
 $_['entry_quantity']         = 'Количество:';
 $_['entry_minimum']          = 'Минимальное количество:<br/><span class="help">Указание минимально количества в заказе</span>';
 $_['entry_stock_status']     = 'Статус при отсутствии на складе:<br /><span class="help">Статус, показываемый, когда товара нет на складе</span>';
-$_['entry_tax_class']        = 'Налог:';
 $_['entry_price']            = 'Цена:';
+$_['entry_tax_class']        = 'Налог:';
 $_['entry_points']           = 'Баллы:<br/><span class="help">Количество баллов для покупки товара. Поставьте 0, чтобы не использовать баллы.</span>';
 $_['entry_option_points']    = 'Баллы:';
 $_['entry_subtract']         = 'Вычитать со склада:';
@@ -77,7 +77,7 @@ $_['entry_related']          = 'Рекомендуемые:<br/><span class="hel
 $_['entry_tag']          	 = 'Теги товара:<br /><span class="help">разделяются запятой</span>';
 $_['entry_reward']           = 'Бонусные баллы:';
 $_['entry_layout']           = 'Изменить схему:';
-$_['entry_main_category']    = 'Категория:';
+$_['entry_main_category']    = 'Главная категория:';
 
 // Error
 $_['error_warning']          = 'Внимательно проверьте форму на ошибки!';
