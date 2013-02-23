@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']      = 'Klarna Invoice';
+$_['heading_title']         = 'Klarna Account';
 
 // Text
 $_['text_payment']          = 'Оплата';
 $_['text_success']          = 'Настройки модуля обновлены!';
-$_['text_klarna_invoice']   = '<a href="https://merchants.klarna.com/signup?locale=en&partner_id=d5c87110cebc383a826364769047042e777da5e8&utm_campaign=Platform&utm_medium=Partners&utm_source=Opencart" target="_blank"><img src="https://cdn.klarna.com/public/images/global/logos/v1/basic/global_basic_logo_std_blue-black.png?width=60&eid=opencart" alt="Klarna Invoice" title="Klarna Invoice" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_klarna_account']   = '<a href="https://merchants.klarna.com/signup?locale=en&partner_id=d5c87110cebc383a826364769047042e777da5e8&utm_campaign=Platform&utm_medium=Partners&utm_source=Opencart" target="_blank"><img src="https://cdn.klarna.com/public/images/global/logos/v1/basic/global_basic_logo_std_blue-black.png?width=60&eid=opencart" alt="Klarna Account" title="Klarna Account" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_live']             = 'Live';
 $_['text_beta']             = 'Beta';
 $_['text_sweden']           = 'Швеция';
@@ -27,15 +27,8 @@ $_['entry_status']          = 'Статус:';
 $_['entry_sort_order']      = 'Порядок сортировки:';
 
 // Error
-$_['error_permission']    = 'У Вас нет прав для управления этим модулем!';
-
-// -----
-// $_['entry_test']          = 'Тестовый режим:';
-// $_['entry_invoice']       = 'Счёт-фактура:<br /><span class="help">Включить автоматическую активацию счетов-фактур?</span>';
-// $_['entry_invoice_delay'] = 'Задержка счёта-фактуры:<br /><span class="help">When auto activating delay sending the invoice for x days.</span>';
-// $_['entry_order_status'] = 'Статус заказа:';
-
-// $_['error_xmlrpc']        = 'Для работы требуется PHP расширение XML-RPC!';
-// $_['error_merchant']      = 'Отсутствует Klarna Merchant ID!';
-// $_['error_secret']        = 'Отсутствует Klarna Secret!';
+$_['error_permission']      = 'У Вас нет прав для управления этим модулем!';
+$_['error_pclass']          = 'Не могу получить pClass для %s. Код ошибки: %s; Текст ошибки: %s';
+$_['error_curl']            = 'Ошибка cURL - Код: %d; Ошибка: %s';
+$_['error_log']             = 'При обновлении модуля возникали ошибки. Проверьте лог-файл.';
 ?>

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'IP Blacklist покупателей';
+$_['heading_title']    = 'Запрещенные IP покупателей';
 
 // Text
 $_['text_success']     = 'Изменения внесены успешно!';

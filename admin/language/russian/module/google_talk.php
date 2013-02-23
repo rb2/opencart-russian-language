@@ -11,7 +11,7 @@ $_['text_column_left']    = 'Левая колонка';
 $_['text_column_right']   = 'Правая колонка';
 
 // Entry
-$_['entry_code']          = 'Код:<br /><span class="help">Перейдите на страницу - <a onclick="window.open(\'http://www.google.com/talk/service/badge/New\');"><u>Создайте аккаунт в Google Talk</u></a>. Скопируйте и вставьте сгенерированный код в текстовое поле.</span>';
+$_['entry_code']          = 'Код:<br /><span class="help">Перейдите на страницу <a onclick="window.open(\'http://www.google.com/talk/service/badge/New\');"><u>Создание виджета Google Talk</u></a>. Скопируйте и вставьте сгенерированный код в текстовое поле.</span>';
 $_['entry_layout']        = 'Страница:';
 $_['entry_position']      = 'Расположение:';
 $_['entry_status']        = 'Статус:';

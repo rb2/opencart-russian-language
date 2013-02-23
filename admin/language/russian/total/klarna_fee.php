@@ -5,6 +5,13 @@ $_['heading_title']    = 'Klarna Fee';
 // Text
 $_['text_total']       = 'Общая сумма заказа';
 $_['text_success']     = 'Настройки модуля обновлены!';
+$_['text_sweden']           = 'Швеция';
+$_['text_norway']           = 'Норвегия';
+$_['text_finland']          = 'Финляндия';
+$_['text_denmark']          = 'Дания';
+$_['text_germany']          = 'Германия';
+$_['text_netherlands']      = 'Нидерланды';
+
 
 // Entry
 $_['entry_total']      = 'Сумма заказа:';

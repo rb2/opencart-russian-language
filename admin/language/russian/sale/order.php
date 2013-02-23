@@ -123,7 +123,6 @@ $_['column_date_added']                       = 'Дата добавления';
 $_['column_date_modified']                    = 'Дата изменения';
 $_['column_total']                            = 'Итого';
 $_['column_product']                          = 'Товар';
-$_['column_sku']                              = 'Артикул';
 $_['column_model']                            = 'Модель';
 $_['column_quantity']                         = 'Количество';
 $_['column_price']                            = 'Цена за единицу';
@@ -133,6 +132,8 @@ $_['column_remaining']                        = 'Осталось';
 $_['column_comment']                          = 'Комментарий';
 $_['column_notify']                           = 'Покупатель уведомлен';
 $_['column_action']                           = 'Действие';
+// -----
+$_['column_sku']                              = 'Артикул';
 
 // Entry
 $_['entry_store']                             = 'Магазин:';
