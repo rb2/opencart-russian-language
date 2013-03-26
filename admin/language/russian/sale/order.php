@@ -132,8 +132,6 @@ $_['column_remaining']                        = 'Осталось';
 $_['column_comment']                          = 'Комментарий';
 $_['column_notify']                           = 'Покупатель уведомлен';
 $_['column_action']                           = 'Действие';
-// -----
-$_['column_sku']                              = 'Артикул';
 
 // Entry
 $_['entry_store']                             = 'Магазин:';

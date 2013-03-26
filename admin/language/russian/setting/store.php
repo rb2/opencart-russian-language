@@ -87,13 +87,4 @@ $_['error_image_wishlist']         = 'Необходимо установить 
 $_['error_image_cart']             = 'Необходимо установить размер изображений товаров в корзине!';
 $_['error_default']                = 'Нельзя удалить основной магазин!';
 $_['error_store']                  = 'Этот магазин не может быть удален, поскольку он прикреплен к %s заказам!';
-
-// -----
-// $_['entry_customer_approval']	= 'Активация новых пользователей:<br /><span class="help">Не позволять входить новым покупателям под своим логином и паролем до одобрения аккаунта.</span>';
-// $_['entry_company_id_display']  = 'Display Company No.:<br /><span class="help">Display a company No. field for billing addresses.</span>';
-// $_['entry_company_id_required'] = 'Force Company No.:<br /><span class="help">Force customers to enter a their company no. for billing addresses.</span>';
-// $_['entry_tax_id_display']      = 'Display Company No.:<br /><span class="help">Display a company No. field for billing addresses.</span>';
-// $_['entry_tax_id_required']     = 'Force Company No.:<br /><span class="help">Force customers to enter a their company no. for billing addresses.</span>';
-
-// $_['error_image_manufacturer']	= 'Необходимо установить размер списка производителей!';
 ?>

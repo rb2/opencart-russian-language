@@ -11,7 +11,6 @@ $_['text_clear']             = 'Убрать изображение';
 
 // Column
 $_['column_name']            = 'Название категории';
-$_['column_seo_keyword']     = 'SEO Keyword';
 $_['column_sort_order']      = 'Порядок сортировки';
 $_['column_action']          = 'Действие';
 

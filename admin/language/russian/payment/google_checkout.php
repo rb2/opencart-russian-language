@@ -21,7 +21,4 @@ $_['entry_sort_order']	 = 'Порядок сортировки:';
 $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_merchant_id']  = 'Отсутствует Merchant ID!';
 $_['error_merchant_key'] = 'Отсутствует Merchant Key!';
-
-// -----
-// $_['entry_currency']     = 'Валюта:';
 ?>

@@ -87,8 +87,4 @@ $_['error_city']                   = 'Origin City!';
 $_['error_state']                  = 'Origin State/Province Required!';
 $_['error_country']                = 'Origin Country Required!';
 $_['error_dimension']              = 'Average Dimensions Required!';
-
-// -----
-// $_['entry_weight_code']            = 'Weight Code:<br /><span class="help">Allowed kgs or lbs. Make sure you match the weight class with the UPS accepted weight code.</span>';
-// $_['entry_length_code']            = 'Length Code:<br /><span class="help">Make sure you match the measurement class with the measurement code.</span>';
 ?>

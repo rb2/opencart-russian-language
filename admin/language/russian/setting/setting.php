@@ -146,14 +146,4 @@ $_['error_ftp_username']           = 'Поле FTP Username обязательн
 $_['error_ftp_password']           = 'Поле FTP Password обязательное!';
 $_['error_error_filename']    = 'Необходимо ввести имя журнала ошибок!';
 $_['error_encryption']        = 'Ключ шифрования должен быть длиной от 3 до 32 символов!';
-
-// -----
-// $_['entry_upload_allowed']    = 'Разрешенные для загрузки типы файлов:<br /><span class="help">Разрешенные для загрузки на сервер форматы файлов. Разделяются запятыми.</span>';
-// $_['entry_customer_approval'] = 'Активация новых пользователей:<br /><span class="help">Не позволять входить новым покупателям под своим логином и паролем до одобрения аккаунта.</span>';
-// $_['entry_company_id_display']  = 'Display Company No.:<br /><span class="help">Display a company No. field for billing addresses.</span>';
-// $_['entry_company_id_required'] = 'Force Company No.:<br /><span class="help">Force customers to enter a their company no. for billing addresses.</span>';
-// $_['entry_tax_id_display']      = 'Display Company No.:<br /><span class="help">Display a company No. field for billing addresses.</span>';
-// $_['entry_tax_id_required']     = 'Force Company No.:<br /><span class="help">Force customers to enter a their company no. for billing addresses.</span>';
-
-// $_['error_image_manufacturer']  = 'Необходимо установить размер изображения списка производителей!';
 ?>

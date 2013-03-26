@@ -28,14 +28,4 @@ $_['entry_sort_order']      = 'Порядок сортировки:';
 
 // Error
 $_['error_permission']    = 'У Вас нет прав для управления этим модулем!';
-
-// -----
-// $_['entry_test']          = 'Тестовый режим:';
-// $_['entry_invoice']       = 'Счёт-фактура:<br /><span class="help">Включить автоматическую активацию счетов-фактур?</span>';
-// $_['entry_invoice_delay'] = 'Задержка счёта-фактуры:<br /><span class="help">When auto activating delay sending the invoice for x days.</span>';
-// $_['entry_order_status'] = 'Статус заказа:';
-
-// $_['error_xmlrpc']        = 'Для работы требуется PHP расширение XML-RPC!';
-// $_['error_merchant']      = 'Отсутствует Klarna Merchant ID!';
-// $_['error_secret']        = 'Отсутствует Klarna Secret!';
 ?>
