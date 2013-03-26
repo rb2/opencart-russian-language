@@ -1,9 +1,9 @@
 #!/bin/bash
+## Ruslan Brest, 2013
+## http://rb.labtodo.com/
+
 ## Compare Opencart language files
 ## Helps to compare EN and RU files *partially* (only variables, not counting translation string)
-
-## run script from ${CATALOG} folder
-## the file voucher.php.diff will be created (overwritten)
 
 function detect
 {
