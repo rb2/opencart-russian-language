@@ -7,7 +7,6 @@ $_['text_empty']        = 'В этой категории нет товаров.
 $_['text_quantity']     = 'Кол-во:';
 $_['text_manufacturer'] = 'Производитель:';
 $_['text_model']        = 'Модель:';
-$_['text_sku']          = 'SKU (Артикул):';
 $_['text_points']       = 'Бонусные баллы:';
 $_['text_price']        = 'Цена:';
 $_['text_tax']          = 'Без НДС:';
@@ -26,7 +25,5 @@ $_['text_rating_asc']   = 'Рейтинг (начиная с низкого)';
 $_['text_rating_desc']  = 'Рейтинг (начиная с высокого)';
 $_['text_model_asc']    = 'Модель (А- Я)';
 $_['text_model_desc']   = 'Модель (Я - А)';
-$_['text_manufacturer_asc']    = 'Производитель (А- Я)';
-$_['text_manufacturer_desc']   = 'Производитель (Я - А)';
 $_['text_limit']        = 'Показать:';
 ?>
