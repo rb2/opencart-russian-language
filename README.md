@@ -4,6 +4,7 @@
 Ветка `master` очищена во избежание путаницы.
 Переводы по версиям см. в соответствующих ветках (branch):
 
+* v156: [https://github.com/rb2/opencart-russian-language/tree/v156](https://github.com/rb2/opencart-russian-language/tree/v156)
 * v155: [https://github.com/rb2/opencart-russian-language/tree/v155](https://github.com/rb2/opencart-russian-language/tree/v155)
 * v154: [https://github.com/rb2/opencart-russian-language/tree/v154](https://github.com/rb2/opencart-russian-language/tree/v154)
 * v153: [https://github.com/rb2/opencart-russian-language/tree/v153](https://github.com/rb2/opencart-russian-language/tree/v153)
@@ -14,6 +15,7 @@
 
 История изменений:
 
+* v1.5.6:   [https://github.com/rb2/opencart-russian-language/commits/v156](https://github.com/rb2/opencart-russian-language/commits/v156)
 * v1.5.5:   [https://github.com/rb2/opencart-russian-language/commits/v155](https://github.com/rb2/opencart-russian-language/commits/v155)
 * v1.5.4:   [https://github.com/rb2/opencart-russian-language/commits/v154](https://github.com/rb2/opencart-russian-language/commits/v154)
 * v1.5.3:   [https://github.com/rb2/opencart-russian-language/commits/v153](https://github.com/rb2/opencart-russian-language/commits/v153)
