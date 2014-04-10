@@ -21,7 +21,7 @@ $_['column_url']				= 'URL магазина';
 $_['column_action']				= 'Действие';
 
 // Entry
-$_['entry_url']					= 'URL магазина:<br /><span class="help">Включая полный URL к магазину. Добавьте \'/\' в конце. Например: http://wwww.yourdomain.com/path/</span>';
+$_['entry_url']					= 'URL магазина:<br /><span class="help">Включая полный URL к магазину. Добавьте \'/\' в конце. Например: http://www.yourdomain.com/path/</span>';
 $_['entry_ssl']					= 'SSL URL:<br /><span class="help">SSL URL to your store. Make sure to add \'/\' at the end. Example: http://www.yourdomain.com/path/<br /><br />Don\'t use directories to create a new store. You should always point another domain or sub domain to your hosting.</span>';
 $_['entry_name']				= 'Название магазина:';
 $_['entry_owner']				= 'Владелец магазина:';
@@ -87,7 +87,7 @@ $_['error_image_manufacturer']	= 'Необходимо установить ра
 $_['error_image_additional']	= 'Необходимо установить размер дополнительных изображений товаров!';
 $_['error_image_related']		= 'Необходимо установить размер изображения аналогичных товаров!';
 $_['error_image_compare']		= 'Необходимо установить размер изображений при сравнении!';
-$_['error_image_wishlist']		= 'Необходимо установить размер изображений в изобрадениях!';
+$_['error_image_wishlist']		= 'Необходимо установить размер изображений в закладках!';
 $_['error_image_cart']			= 'Необходимо установить размер изображений товаров в корзине!';
 $_['error_default']				= 'Нельзя удалить основной магазин!';
 $_['error_store']				= 'Этот магазин не может быть удален, поскольку он прикреплен к %s заказам!';
