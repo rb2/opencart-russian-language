@@ -14,5 +14,5 @@ $_['text_account']      = 'Личный Кабинет';
 $_['text_order']        = 'История заказов';
 $_['text_wishlist']     = 'Закладки';
 $_['text_newsletter']   = 'Рассылка';
-$_['text_powered']      = '%s <a style="color:gray; text-decoration:none;" href="http://rb.labtodo.com/page/opencart-1505-russian-language-pack" title="Русский перевод Опенкарт">&copy;</a> %s<br />Работает на <a href="http://www.opencart.com">OpenCart</a>';
+$_['text_powered']      = '%s &copy; %s<br />Работает на <a href="http://rb.labtodo.com/page/opencart-1505-russian-language-pack" title="Русский перевод Опенкарт">русском</a> <a href="http://www.opencart.com">OpenCart</a>';
 ?>
