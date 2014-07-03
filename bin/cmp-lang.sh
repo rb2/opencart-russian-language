@@ -7,8 +7,8 @@
 
 function detect
 {
-	## original files are from projects/opencart-github-rb2.git
-	diff -b <(cut -d'=' -f1 -s /home/rb/projects/opencart-github-rb2.git/upload/${AREA}/language/english/${CATALOG}/$1) <(cut -d'=' -f1 -s $1) > $1.diff
+	## original files are from projects/opencart-github.git
+	diff -b <(cut -d']' -f1 -s /home/rb/projects/opencart-github.git/upload/${AREA}/language/english/${CATALOG}/$1) <(cut -d']' -f1 -s $1) > $1.diff
 
 	# remove tmp file if its size = 0
 	[ -s $1.diff ] || rm $1.diff

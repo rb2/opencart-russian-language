@@ -3,6 +3,8 @@
 $_['heading_title']                           = 'Заказы';
 
 // Text
+$_['text_amazon_order_id']                    = 'Amazon Order ID:';
+$_['text_name']                               = 'Name:';
 $_['text_success']                            = 'Заказ обновлен!';
 $_['text_order_id']                           = '№ заказа:';
 $_['text_invoice_no']                         = '№ счета:';

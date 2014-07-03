@@ -70,6 +70,7 @@ $_['button_add_link']         = 'Добавить ссылку';
 $_['button_update_total']     = 'Обновить итоговые суммы';
 $_['button_approve']          = 'Активировать';
 $_['button_reset']            = 'Сброс';
+$_['button_add_profile']            = 'Добавить профиль';
 
 // Tab
 $_['tab_address']             = 'Адрес';
@@ -93,17 +94,20 @@ $_['tab_store']               = 'Магазин';
 $_['tab_special']             = 'Акции';
 $_['tab_local']               = 'Локализация';
 $_['tab_mail']                = 'Почта';
+$_['tab_marketplace_links']         = 'Marketplace Links';
 $_['tab_module']              = 'Модуль';
 $_['tab_order']               = 'Детали заказа';
 $_['tab_payment']             = 'Детали оплаты';
 $_['tab_product']             = 'Товары';
 $_['tab_return']              = 'Подробности возвратов';
 $_['tab_reward']              = 'Бонусные баллы';
+$_['tab_profile']                   = 'Профили';
 $_['tab_shipping']            = 'Адрес доставки';
 $_['tab_total']               = 'Итого';
 $_['tab_transaction']         = 'Транзакции';
 $_['tab_voucher']             = 'Подарочные сертификаты';
 $_['tab_voucher_history']     = 'История подарочных сертификатов';
+$_['tab_price']                     = 'Цена';
 
 // Error
 $_['error_upload_1']          = 'Размер загружаемого файла превышает максимальный размер, указанный в php.ini!';

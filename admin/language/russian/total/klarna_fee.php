@@ -12,7 +12,6 @@ $_['text_denmark']          = 'Дания';
 $_['text_germany']          = 'Германия';
 $_['text_netherlands']      = 'Нидерланды';
 
-
 // Entry
 $_['entry_total']      = 'Сумма заказа:';
 $_['entry_fee']        = 'Плата:';
