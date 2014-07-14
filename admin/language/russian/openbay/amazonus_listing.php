@@ -184,4 +184,3 @@ $_['column_amazonus_sku'] = 'Amazon item SKU';
 
 //Messages
 $_['text_links_removed'] = 'Amazon product links deleted';
-?>

@@ -24,4 +24,3 @@ $_['entry_sort_order']   = 'Sort Order:';
 $_['error_permission']   = 'Warning: You do not have permission to modify payment WorldPay!';
 $_['error_merchant']     = 'Merchant ID Required!';
 $_['error_password']     = 'Password Required!';
-?>

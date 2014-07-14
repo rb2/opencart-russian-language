@@ -21,4 +21,3 @@ $_['entry_sort_order']   = 'Sort Order:';
 $_['error_permission']   = 'Warning: You do not have permission to modify payment Authorize.Net (AIM)!';
 $_['error_merchant']     = 'Merchant ID Required!';
 $_['error_key']          = 'Transaction Key Required!';
-?>

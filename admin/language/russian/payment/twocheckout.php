@@ -21,4 +21,3 @@ $_['entry_sort_order']   = 'Sort Order:';
 $_['error_permission']   = 'Warning: You do not have permission to modify payment 2Checkout!';
 $_['error_account']      = 'Account No. Required!';
 $_['error_secret']       = 'Secret Word Required!';
-?>

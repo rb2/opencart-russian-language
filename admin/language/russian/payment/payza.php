@@ -2,10 +2,10 @@
 // Heading
 $_['heading_title']      = 'Payza';
 
-// Text 
+// Text
 $_['text_payment']       = 'Оплата';
 $_['text_success']       = 'Настройки модуля обновлены!';
-      
+
 // Entry
 $_['entry_merchant']     = 'Merchant ID:';
 $_['entry_security']     = 'Security Code:';
@@ -20,4 +20,3 @@ $_['entry_sort_order']   = 'Порядок сортировки:';
 $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_merchant']     = 'Отсутствует Merchant ID!';
 $_['error_security']     = 'Отсутствует Security Code!';
-?>

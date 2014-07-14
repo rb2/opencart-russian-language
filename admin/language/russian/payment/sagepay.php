@@ -27,4 +27,3 @@ $_['entry_sort_order']	 = 'Порядок сортировки:';
 $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_vendor']       = 'Укажите Vendor ID!';
 $_['error_password']     = 'Укажите пароль!';
-?>

@@ -25,4 +25,3 @@ $_['entry_sort_order']   = 'Sort Order:';
 $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_email']        = 'Не заполнено поле E-Mail!';
 $_['error_merchant']     = 'Требуется Merchant ID!';
-?>

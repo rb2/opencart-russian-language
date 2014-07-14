@@ -10,4 +10,3 @@ $_['column_name']    = 'Название товара';
 $_['column_model']   = 'Модель';
 $_['column_viewed']  = 'Просмотров';
 $_['column_percent'] = 'Процент';
-?>

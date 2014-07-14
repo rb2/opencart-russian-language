@@ -146,4 +146,3 @@ $_['error_ftp_username']           = 'Поле FTP Username обязательн
 $_['error_ftp_password']           = 'Поле FTP Password обязательное!';
 $_['error_error_filename']    = 'Необходимо ввести имя журнала ошибок!';
 $_['error_encryption']        = 'Ключ шифрования должен быть длиной от 3 до 32 символов!';
-?>

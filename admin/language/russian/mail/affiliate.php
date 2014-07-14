@@ -8,4 +8,3 @@ $_['text_approve_thanks']       = 'Спасибо,';
 $_['text_transaction_subject']  = '%s - Партнерское вознаграждение.';
 $_['text_transaction_received'] = 'Вы получили %s!';
 $_['text_transaction_total']    = 'Общая сумма Ваших партнерских вознаграждений %s.';
-?>
