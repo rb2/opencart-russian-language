@@ -1,8 +1,8 @@
-* [Русский перевод Opencart v1.5.x. Информация о других переводах (русский, украинский язык)](http://rb.labtodo.com/page/opencart-1505-russian-language-pack)
+* [Русский перевод Opencart v1.5.x, v2.0. Информация о других переводах (русский, украинский язык)](http://rb.labtodo.com/page/opencart-1505-russian-language-pack)
 * [Русский язык в расширениях на Opencart.com](http://www.opencart.com/index.php?route=extension/extension/info&extension_id=2778)
 
 * <https://github.com/rb2/opencart-russian-language> (доступно скачивание архивов сразу, без установки дополнительных программ)
-* История изменений (v1.5.6.x): <https://github.com/rb2/opencart-russian-language/commits/v156>
+* История изменений (v2.0.x): <https://github.com/rb2/opencart-russian-language/commits/v200>
 
 ----
 
@@ -19,7 +19,7 @@
         Directory: russian
         Filename: russian
         Status: Enabled
-        Sort Order: 1
+        Sort Order: 2
 
     и нажмите кнопку Save
 
@@ -31,4 +31,3 @@
 4. перейдите на вкладку **System / Settings / Edit / Local** и выберите в выпадающих списках
    `Language` и `Administration Language` параметр "Русский" (чтобы созданный язык
    использовался в интерфейсе магазина и в админ-части)
-
