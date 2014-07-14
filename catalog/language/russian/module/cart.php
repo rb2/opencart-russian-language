@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title'] = 'Корзина покупок';
 
 // Text
@@ -9,4 +9,3 @@ $_['text_cart']     = 'Просмотр корзины';
 $_['text_checkout'] = 'Оформление заказа';
 
 $_['text_payment_profile'] = 'Платёжный профиль';
-?>

@@ -15,5 +15,3 @@ $_['text_lastname']       = 'Фамилия:';
 $_['text_company']        = 'Компания:';
 $_['text_email']          = 'E-Mail:';
 $_['text_telephone']      = 'Телефон:';
-
-?>

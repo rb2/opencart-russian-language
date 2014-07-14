@@ -18,4 +18,3 @@ $_['text_return']      = 'Возвраты';
 $_['text_transaction'] = 'История фин. операций';
 $_['text_newsletter']  = 'E-Mail рассылка';
 $_['text_recurring']   = 'Регулярные платежи';
-?>

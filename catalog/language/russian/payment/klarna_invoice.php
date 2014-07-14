@@ -26,4 +26,3 @@ $_['entry_company']        = 'Регистрационный номер комп
 $_['error_deu_terms']     = 'Требуется согласие с Klarna privacy policy (Datenschutz)';
 $_['error_address_match'] = 'Адреса доставки и платежа должны совпадать, если вы хотите использовать Klarna Invoice';
 $_['error_network']       = 'Произошла ошибка во время соединения с сервером  Klarna. Повторите попытку позже.';
-?>

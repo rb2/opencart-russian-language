@@ -52,4 +52,3 @@ $_['text_transaction_expired'] = 'Срок действия';
 $_['error_not_cancelled'] = 'Ошибка: %s';
 $_['error_not_found'] = 'Невозможно отменить профиль';
 $_['success_cancelled'] = 'Регулярный платёж отменён';
-?>

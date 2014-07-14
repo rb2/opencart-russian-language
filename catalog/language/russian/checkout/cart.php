@@ -69,4 +69,3 @@ $_['error_profile_required'] = 'Выберите платёжный профил
 $_['text_trial']             = '%s каждые %s %s для %s платежей, затем ';
 $_['text_recurring']         = '%s каждые %s %s';
 $_['text_length']            = ' для %s платежей';
-?>

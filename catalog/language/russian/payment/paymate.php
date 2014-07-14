@@ -8,4 +8,3 @@ $_['text_failed_message'] = '<p>Unfortunately there was an error processing your
 $_['text_basket']         = 'Basket';
 $_['text_checkout']       = 'Оформить заказ';
 $_['text_success']        = 'Операция проведена успешно';
-?>

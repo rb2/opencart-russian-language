@@ -33,4 +33,3 @@ $_['column_action']         = 'Выберите действие:';
 $_['column_date_added']     = 'Добавлено';
 $_['column_status']         = 'Статус';
 $_['column_comment']        = 'Комментарий';
-?>

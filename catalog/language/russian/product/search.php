@@ -35,4 +35,3 @@ $_['text_limit']        = 'Показать:';
 // Entry
 $_['entry_search']      = 'Поиск:';
 $_['entry_description'] = 'Искать в описании товаров';
-?>

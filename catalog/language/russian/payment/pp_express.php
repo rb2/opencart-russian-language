@@ -19,4 +19,3 @@ $_['express_button_confirm']        = 'Подтвердить';
 $_['express_button_login']          = 'Продолжить с PayPal';
 $_['express_button_shipping']       = 'Обновить доставку';
 $_['express_entry_coupon']          = 'Введите номер купона:';
-?>

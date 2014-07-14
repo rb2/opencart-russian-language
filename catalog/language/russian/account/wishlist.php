@@ -18,4 +18,3 @@ $_['column_model']  = 'Модель';
 $_['column_stock']  = 'Наличие';
 $_['column_price']  = 'Цена за единицу товара';
 $_['column_action']   = 'Действие';
-?>
