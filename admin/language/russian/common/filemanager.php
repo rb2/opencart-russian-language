@@ -43,4 +43,3 @@ $_['button_copy']      = 'Копиров.';
 $_['button_rename']    = 'Переименов.';
 $_['button_upload']    = 'Загрузить';
 $_['button_refresh']   = 'Обновить';
-?>
