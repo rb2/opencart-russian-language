@@ -21,7 +21,7 @@ $_['text_unselect_all']             = 'Снять выделение';
 $_['text_all_zones']                = 'Все регионы';
 $_['text_default']                  = ' <b>(По умолчанию)</b>';
 $_['text_close']                    = 'Закрыть';
-$_['text_pagination']               = 'Показано с {start} по {end} из {total} (всего страниц: {pages})';
+$_['text_pagination']               = 'Показано с %d по %d из %d (всего страниц: %d)';
 $_['text_no_results']               = 'Нет данных!';
 $_['text_confirm']                  = 'Вы уверены?';
 $_['text_home']                     = '<i class="fa fa-home fa-lg"></i>';
