@@ -12,27 +12,27 @@ $_['column_sort_order']      = 'Порядок сортировки';
 $_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_name']             = 'Название категории:';
-$_['entry_description']      = 'Описание:';
-$_['entry_meta_title'] 	     = 'HTML Title<br/><span class="help">Заголовок страницы</span>';
-$_['entry_meta_keyword'] 	 = 'META Keywords:<br/><span class="help">Мета-тег "Ключевые слова"</span>';
-$_['entry_meta_description'] = 'META Description:<br/><span class="help">Мета-тег "Описание"</span>';
-$_['entry_keyword']          = 'SEO Keyword:<br /><span class="help">Заменяйте пробелы на знак "-". Значение этого поля должно быть уникальным на всю систему.</span>';
-$_['entry_parent']           = 'Родительская категория:';
-$_['entry_filter']           = 'Фильтры:<br /><span class="help">(Автодополнение)</span>';
-$_['entry_store']            = 'Магазины:';
-$_['entry_image']            = 'Изображение категории:';
-$_['entry_top']              = 'Главное меню:<br/><span class="help">Показывать в главном меню (только для главных родительских категорий).</span>';
-$_['entry_column']           = 'Столбцы:<br/><span class="help">Количество столбцов в выпадающем меню категории (только для главных родительских категорий).</span>';
+$_['entry_name']             = 'Название категории';
+$_['entry_description']      = 'Описание';
+$_['entry_meta_title'] 	     = 'HTML Title';
+$_['entry_meta_keyword']     = 'META Keywords';
+$_['entry_meta_description'] = 'META Description';
+$_['entry_keyword']          = 'SEO Keyword';
+$_['entry_parent']           = 'Родительская категория';
+$_['entry_filter']           = 'Фильтры';
+$_['entry_store']            = 'Магазины';
+$_['entry_image']            = 'Изображение категории';
+$_['entry_top']              = 'Главное меню';
+$_['entry_column']           = 'Столбцы';
 $_['entry_sort_order']       = 'Порядок сортировки:';
 $_['entry_status']           = 'Статус:';
 $_['entry_layout']           = 'Изменить схему:';
 
 // Help
-$_['help_filter']            = '(Autocomplete)';
-$_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the keyword is globally unique.';
-$_['help_top']               = 'Display in the top menu bar. Only works for the top parent categories.';
-$_['help_column']            = 'Number of columns to use for the bottom 3 categories. Only works for the top parent categories.';
+$_['help_filter']            = '(Автодополнение)';
+$_['help_keyword']           = 'Вместо пробелов используйте знак "-". Значение этого поля должно быть <strong>уникальным глобально</strong> на всю систему.';
+$_['help_top']               = 'Показывать в главном меню (только для главных категорий верхнего уровня).';
+$_['help_column']            = 'Number of columns to use for the bottom 3 categories. Only works for the top parent categories.<br />Количество столбцов для ипользования в трёх нижних категориях. Работает только для категорий верхнего уровня.';
 
 // Error
 $_['error_warning']          = 'Внимательно проверьте форму на ошибки!';
