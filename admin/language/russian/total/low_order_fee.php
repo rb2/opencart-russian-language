@@ -13,5 +13,8 @@ $_['entry_tax_class']  = 'Налоги:';
 $_['entry_status']     = 'Статус:';
 $_['entry_sort_order'] = 'Порядок сортировки:';
 
+// Help
+$_['help_total']       = 'The checkout total the order must reach before this order total becomes active.';
+
 // Error
 $_['error_permission'] = 'У Вас нет прав для управления этим модулем!';

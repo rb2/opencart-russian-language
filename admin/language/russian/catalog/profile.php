@@ -2,19 +2,9 @@
 // Heading
 $_['heading_title'] = 'Profiles';
 
-// Buttons
-$_['button_insert'] = 'Insert';
-$_['button_copy'] = 'Copy';
-$_['button_delete'] = 'Delete';
-$_['button_remove'] = 'Remove';
-
 // Text
-$_['text_confirm'] = 'Are you cure you want to delete?';
-$_['text_no_results'] = 'No Results';
 $_['text_remove'] = 'Remove';
 $_['text_edit'] = 'Edit';
-$_['text_enabled'] = 'Enabled';
-$_['text_disabled'] = 'Disabled';
 $_['text_success'] = 'Profile was successfully added';
 $_['text_removed'] = 'Profile(s) were removed';
 $_['text_copied'] = 'Profile was copied';
@@ -48,3 +38,4 @@ $_['column_action'] = 'Action';
 $_['error_warning'] = 'Warning: Please check the form carefully for errors!';
 $_['error_permission'] = 'Warning: You do not have permission to modify profiles!';
 $_['error_name'] = 'Profile Name must be greater than 3 and less than 255 characters!';
+$_['error_product']					= 'Warning: This profile cannot be deleted as it is currently assigned to %s products!';

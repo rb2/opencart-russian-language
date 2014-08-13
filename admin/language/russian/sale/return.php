@@ -6,24 +6,9 @@ $_['heading_title']       = 'Возвраты товаров';
 $_['text_opened']         = 'Упаковка открыта';
 $_['text_unopened']       = 'Не распакован';
 $_['text_success']        = 'Изменения в возвраты внесены успешно!';
-$_['text_wait']           = 'Подождите!';
-
-// Text
-$_['text_return_id']      = '№ возврата:';
-$_['text_order_id']       = '№ заказа:';
-$_['text_date_ordered']   = 'Дата заказа:';
-$_['text_customer']       = 'Покупатель:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Телефон:';
-$_['text_return_status']  = 'Статус возврата:';
-$_['text_date_added']     = 'Дата добавления:';
-$_['text_date_modified']  = 'Дата изменения:';
+$_['text_order']          = 'Order Information';
 $_['text_product']        = 'Товар:';
-$_['text_model']          = 'Модель:';
-$_['text_quantity']       = 'Количество:';
-$_['text_return_reason']  = 'Причина возврата:';
-$_['text_return_action']  = 'Действие по возврату:';
-$_['text_comment']        = 'Комментарий:';
+$_['text_history']        = 'Add Return History';
 
 // Column
 $_['column_return_id']     = '№ возврата';
@@ -46,15 +31,21 @@ $_['entry_firstname']     = 'Имя, Отчество:';
 $_['entry_lastname']      = 'Фамилия:';
 $_['entry_email']         = 'E-Mail:';
 $_['entry_telephone']     = 'Телефон:';
-$_['entry_product']       = 'Товар:<br /><span class="help">(автодополнение)</span>';
+$_['entry_product']       = 'Товар';
 $_['entry_model']         = 'Модель:';
 $_['entry_quantity']      = 'Количество:';
-$_['entry_reason']        = 'Причина возврата:';
 $_['entry_opened']        = 'Открытый:';
 $_['entry_comment']       = 'Комментарий:';
+$_['entry_return_reason'] = 'Причина возврата:';
+$_['entry_return_action'] = 'Действие по возврату:';
 $_['entry_return_status'] = 'Статус возврата:';
 $_['entry_notify']        = 'Покупатель уведомлен:';
-$_['entry_action']        = 'Действие по возврату:';
+$_['entry_return_id']     = 'Return ID';
+$_['entry_date_added']    = 'Date Added';
+$_['entry_date_modified'] = 'Date Modified';
+
+// Help
+$_['help_product']        = '(Работает автодополнение)';
 
 // Error
 $_['error_warning']       = 'Внимательно проверьте форму на ошибки!';

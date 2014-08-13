@@ -14,13 +14,15 @@ $_['column_date_added'] = 'Добавлено';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_product']     = 'Товар:<br/><span class="help">(Автодополнение)</span>';
-$_['entry_author']      = 'Автор:';
-$_['entry_rating']      = 'Рейтинг:';
-$_['entry_status']      = 'Статус:';
-$_['entry_text']        = 'Текст:';
-$_['entry_good']        = 'Хорошо';
-$_['entry_bad']         = 'Плохо';
+$_['entry_product']     = 'Товар';
+$_['entry_author']      = 'Автор';
+$_['entry_rating']      = 'Рейтинг';
+$_['entry_status']      = 'Статус';
+$_['entry_text']        = 'Текст';
+$_['entry_date_added']  = 'Дата добавления';
+
+// Help
+$_['help_product']      = '(Работает автодополнение)';
 
 // Error
 $_['error_permission']  = 'У Вас нет прав для изменения отзывов!';

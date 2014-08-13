@@ -3,8 +3,7 @@
 $_['heading_title']     = 'Доставка';
 
 // Text
-$_['text_install']      = 'Установить';
-$_['text_uninstall']    = 'Удалить';
+$_['text_success']     = 'Настройки успешно обновлены!';
 
 // Column
 $_['column_name']       = 'Способ доставки';

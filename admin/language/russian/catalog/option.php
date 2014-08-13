@@ -16,9 +16,6 @@ $_['text_file']           = 'Файл';
 $_['text_date']           = 'Дата';
 $_['text_datetime']       = 'Дата и время';
 $_['text_time']           = 'Время';
-$_['text_image_manager']  = 'Управление изображениями';
-$_['text_browse']         = 'Просмотр файлов';
-$_['text_clear']          = 'Убрать изображение';
 
 // Column
 $_['column_name']         = 'Опция';

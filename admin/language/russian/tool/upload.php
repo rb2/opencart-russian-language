@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Uploads';
+$_['heading_title']     = 'Загруженные покупателями файлы';
 
 // Text
 $_['text_success']      = 'Success: You have modified upload!';

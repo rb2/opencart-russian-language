@@ -1,10 +1,9 @@
 <?php
 // Heading
-$_['heading_title']     = 'Модули';
+$_['heading_title']    = 'Модули';
 
 // Text
-$_['text_install']      = 'Установить';
-$_['text_uninstall']    = 'Удалить';
+$_['text_success']     = 'Настройки успешно обновлены!';
 
 // Column
 $_['column_name']       = 'Название модуля';

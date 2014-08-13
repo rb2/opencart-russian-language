@@ -13,14 +13,14 @@ $_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_username']   = 'Логин:';
+$_['entry_user_group'] = 'Группа пользователей:';
 $_['entry_password']   = 'Пароль:';
 $_['entry_confirm']    = 'Подтверждение:';
 $_['entry_firstname']  = 'Имя, Отчество:';
 $_['entry_lastname']   = 'Фамилия:';
 $_['entry_email']      = 'E-Mail:';
-$_['entry_user_group'] = 'Группа пользователей:';
+$_['entry_image']      	= 'Image';
 $_['entry_status']     = 'Статус:';
-$_['entry_captcha']    = 'Введите код:';
 
 // Error
 $_['error_permission'] = 'У Вас нет прав для изменения списка пользователей!';
@@ -31,5 +31,4 @@ $_['error_password']   = 'Пароль должен быть от 3 до 20 си
 $_['error_confirm']    = 'Пароли не совпадают!';
 $_['error_firstname']  = 'Имя должно быть от 1 до 32 символов!';
 $_['error_lastname']   = 'Фамилия должна быть от 1 до 32 символов!';
-$_['error_captcha']    = 'Код не совпадает с кодом на картинке!';
 

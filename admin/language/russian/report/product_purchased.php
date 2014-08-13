@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']		= 'Отчет по купленным товарам';
+$_['heading_title']     = 'Отчет по купленным товарам';
 
 // Text
 $_['text_all_status']   = 'Все статусы';

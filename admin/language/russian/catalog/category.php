@@ -38,9 +38,4 @@ $_['help_column']            = 'Number of columns to use for the bottom 3 catego
 $_['error_warning']          = 'Внимательно проверьте форму на ошибки!';
 $_['error_permission']       = 'У Вас нет прав для изменения категорий!';
 $_['error_name']             = 'Название категории должно быть от 2 до 32 символов!';
-$_['error_meta_title']       = 'Meta Title must be greater than 3 and less than 255 characters!';
-
-// ---- REMOVED ----
-$_['text_image_manager']     = 'Управление изображениями';
-$_['text_browse']            = 'Просмотр файлов';
-$_['text_clear']             = 'Убрать изображение';
+$_['error_meta_title']       = 'Meta Title должно быть больше 3 и короче 255 символов!';

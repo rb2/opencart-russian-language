@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title'] = 'Payment Profiles';
+$_['heading_title'] 							= 'Recurring Profiles';
 
 // Text
-$_['text_success'] = 'Success: You have modified Payment Profiles!';
-$_['text_payment_profiles'] = 'Payment Profiles';
+$_['text_success'] 								= 'Success: You have modified Recurring Profiles!';
+$_['text_payment_profiles'] 					= 'Recurring Profiles';
 $_['text_status_active'] = 'Active';
 $_['text_status_inactive'] = 'Inactive';
 $_['text_status_cancelled'] = 'Cancelled';
@@ -12,12 +12,8 @@ $_['text_status_suspended'] = 'Suspended';
 $_['text_status_expired'] = 'Expired';
 $_['text_status_pending'] = 'Pending';
 $_['text_transactions'] = 'Transactions';
-$_['text_return'] = 'Return';
-$_['text_cancel'] = 'Cancel';
-$_['text_filter'] = 'Filter';
-$_['text_view'] = 'View';
 $_['text_cancel_confirm'] = 'Profile\'s cancellation cannot be undone! Are you sure want to do this?';
-$_['text_transaction_created'] = 'Created';
+$_['text_transaction_created'] 					= 'Date added';
 $_['text_transaction_payment'] = 'Payment';
 $_['text_transaction_outstanding_payment'] = 'Outstanding payment';
 $_['text_transaction_skipped'] = 'Payment skipped';
@@ -34,7 +30,7 @@ $_['entry_order_recurring'] = 'ID';
 $_['entry_order_id'] = 'Order ID';
 $_['entry_payment_reference'] = 'Payment Reference';
 $_['entry_customer'] = 'Customer';
-$_['entry_date_created'] = 'Date Created';
+$_['entry_date_created'] 						= 'Date Added';
 $_['entry_status'] = 'Status';
 $_['entry_type'] = 'Type';
 $_['entry_action'] = 'Action';

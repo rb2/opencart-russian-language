@@ -16,15 +16,20 @@ $_['text_germany']          = 'Германия';
 $_['text_netherlands']      = 'Нидерланды';
 
 // Entry
-$_['entry_merchant']        = 'Klarna Merchant ID:<br /><span class="help">(estore id) для использования сервиса (предоставляется Klarna).</span>';
-$_['entry_secret']          = 'Klarna Secret:<br /><span class="help">Секретный ключ для использования сервиса (предоставляется Klarna).</span>';
+$_['entry_merchant']        = 'Klarna Merchant ID';
+$_['entry_secret']          = 'Klarna Secret';
 $_['entry_server']          = 'Сервер:';
-$_['entry_total']           = 'Минимальная сумма заказа:<br /><span class="help">Сумма заказа, после достижения которой данный способ станет доступен.</span>';
+$_['entry_total']           = 'Минимальная сумма заказа';
 $_['entry_pending_status']  = 'Статус при ожидании:';
 $_['entry_accepted_status'] = 'Статус принятого платежа:';
 $_['entry_geo_zone']        = 'Географическая зона:';
 $_['entry_status']          = 'Статус:';
 $_['entry_sort_order']      = 'Порядок сортировки:';
+
+// Help
+$_['help_merchant']         = '(estore id) для использования сервиса (предоставляется Klarna).';
+$_['help_secret']           = 'Секретный ключ для использования сервиса (предоставляется Klarna).';
+$_['help_total']            = 'Сумма заказа, после достижения которой данный способ станет доступен.';
 
 // Error
 $_['error_permission']      = 'У Вас нет прав для управления этим модулем!';

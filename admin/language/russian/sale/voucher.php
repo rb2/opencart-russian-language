@@ -3,10 +3,8 @@
 $_['heading_title']     = 'Подарочный сертификат';
 
 // Text
-$_['text_send']         = 'Отправить';
 $_['text_success']      = 'Вы изменили подарочный сертификат!';
 $_['text_sent']         = 'Подарочный сертификат отправлен на e-mail!';
-$_['text_wait']         = 'Подождите!';
 
 // Column
 $_['column_name']       = 'Название подарочного сертификата';
@@ -32,7 +30,11 @@ $_['entry_message']     = 'Сообщение:';
 $_['entry_amount']      = 'Сумма:';
 $_['entry_status']      = 'Статус:';
 
+// Help
+$_['help_code']         = 'The code the customer enters to activate the voucher.';
+
 // Error
+$_['error_selection']   = 'Warning: No vouchers selected!';
 $_['error_permission']  = 'У Вас нет прав для изменения подарочных сертификатов!';
 $_['error_exists']      = 'Такой код подарочного сертификата уже используется!';
 $_['error_code']        = 'Код должен быть от 3 до 10 символов!';

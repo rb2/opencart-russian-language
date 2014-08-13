@@ -3,8 +3,7 @@
 $_['heading_title']     = 'Учитывать в заказе';
 
 // Text
-$_['text_install']      = 'Установить';
-$_['text_uninstall']    = 'Удалить';
+$_['text_success']      = 'Настройки успешно обновлены!';
 
 // Column
 $_['column_name']       = 'Учитывать в заказе';

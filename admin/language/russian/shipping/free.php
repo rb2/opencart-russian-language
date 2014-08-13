@@ -12,5 +12,8 @@ $_['entry_geo_zone']   = 'Географическая зона:';
 $_['entry_status']     = 'Статус:';
 $_['entry_sort_order'] = 'Порядок сортировки:';
 
+// Help
+$_['help_total']       = 'Sub-Total amount needed before the free shipping module becomes available.';
+
 // Error
 $_['error_permission'] = 'У Вас нет прав для управления этим модулем!';
