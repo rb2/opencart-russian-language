@@ -1,12 +1,16 @@
 <?php
 // Text
-$_['text_title']                    = 'PayPal Express';
+$_['text_title']                    = 'PayPal Express Checkout';
 $_['button_continue']               = 'Продолжить';
 $_['text_cart']                     = 'Корзина покупок';
 $_['text_shipping_updated']         = 'Сервис доставки обновлён';
 $_['text_trial']                    = '%s каждые %s %s для %s платежей, затем ';
 $_['text_recurring']                = '%s каждые %s %s';
+$_['text_recurring_item']           = 'Recurring Item';
 $_['text_length']                   = ' для %s платежей';
+
+// Buttons
+$_['button_cancel_profile'] 		= 'Cancel payments';
 
 // Standard checkout error page
 $_['error_heading_title']           = 'Произошла ошибка';

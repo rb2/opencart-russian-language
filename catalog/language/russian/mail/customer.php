@@ -12,6 +12,5 @@ $_['text_website']        = 'Веб-сайт:';
 $_['text_customer_group'] = 'Группа покупателей:';
 $_['text_firstname']      = 'Имя:';
 $_['text_lastname']       = 'Фамилия:';
-$_['text_company']        = 'Компания:';
 $_['text_email']          = 'E-Mail:';
 $_['text_telephone']      = 'Телефон:';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Подарочный сертификат';
+$_['heading_title']    = 'Покупка Подарочного сертификата';
 
 // Text
 $_['text_account']     = 'Account';
@@ -16,8 +16,12 @@ $_['entry_to_email']   = 'Email Получателя:';
 $_['entry_from_name']  = 'Ваше имя:';
 $_['entry_from_email'] = 'Ваш E-mail:';
 $_['entry_theme']      = 'Тема Подарочного сертификата:';
-$_['entry_message']    = 'Сообщение:<br /><span class="help">(необязательно)</span>';
-$_['entry_amount']     = 'Сумма:<br /><span class="help">(Значение должно быть между %s и %s)</span>';
+$_['entry_message']    = 'Сообщение';
+$_['entry_amount']     = 'Сумма';
+
+// Help
+$_['help_message']     = 'Необязательно';
+$_['help_amount']      = 'Значение должно быть между %s и %s';
 
 // Error
 $_['error_to_name']    = 'Имя получателя должно быть от 1 до 64 символов!';

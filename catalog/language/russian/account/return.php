@@ -15,13 +15,17 @@ $_['text_order_id']      = '№ заказа:';
 $_['text_date_ordered']  = 'Дата заказа:';
 $_['text_status']        = 'Статус:';
 $_['text_date_added']    = 'Добавлено:';
-$_['text_customer']      = 'Покупатель:';
 $_['text_comment']       = 'Комментарий по возврату';
 $_['text_history']       = 'История возвратов';
 $_['text_empty']         = 'У Вас не было раньше возвратов товаров!';
 $_['text_agree']         = 'Я прочитал <a class="colorbox" href="%s" alt="%s"><b>%s</b></a> и согласен с условиями';
 
 // Column
+$_['column_return_id']   = 'Номер возврата';
+$_['column_order_id']    = 'Номер заказа';
+$_['column_status']      = 'Статус';
+$_['column_date_added']  = 'Добавлено';
+$_['column_customer']    = 'Покупатель';
 $_['column_product']     = 'Название товара';
 $_['column_model']       = 'Модель';
 $_['column_quantity']    = 'Количество';
@@ -30,15 +34,13 @@ $_['column_opened']      = 'Открыто';
 $_['column_comment']     = 'Комментарий';
 $_['column_reason']      = 'Причина';
 $_['column_action']      = 'Действие';
-$_['column_date_added']  = 'Добавлено';
-$_['column_status']      = 'Статус';
 
 // Entry
 $_['entry_order_id']     = '№ заказа:';
 $_['entry_date_ordered'] = 'Дата заказа:';
 $_['entry_firstname']    = 'Имя:';
 $_['entry_lastname']     = 'Фамилия:';
-$_['entry_email']        = 'E-Mail:';
+$_['entry_email']        = 'E-Mail';
 $_['entry_telephone']    = 'Телефон:';
 $_['entry_product']      = 'Наименование товара:';
 $_['entry_model']        = 'Модель:';

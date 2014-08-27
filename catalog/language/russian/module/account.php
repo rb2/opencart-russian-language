@@ -14,6 +14,7 @@ $_['text_address']     = 'Список контактов';
 $_['text_wishlist']    = 'Закладки';
 $_['text_order']       = 'История заказов';
 $_['text_download']    = 'Файлы для скачивания';
+$_['text_reward']      = 'Reward Points';
 $_['text_return']      = 'Возвраты';
 $_['text_transaction'] = 'История фин. операций';
 $_['text_newsletter']  = 'E-Mail рассылка';

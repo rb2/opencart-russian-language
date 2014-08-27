@@ -2,7 +2,6 @@
 $_['heading_title'] = 'Регулярные платежи';
 $_['button_continue'] = 'Продолжить';
 $_['button_view'] = 'Просмотр';
-$_['button_cancel_profile'] = 'Cancel payments';
 $_['text_empty'] = 'Не найдены профили регулярных платежей';
 $_['text_product'] = 'Товар: ';
 $_['text_order'] = 'Заказ: ';
@@ -12,7 +11,6 @@ $_['text_action'] = 'Действие';
 $_['text_recurring'] = 'Регулярный платёж';
 $_['text_transactions'] = 'Транзакции';
 $_['button_return'] = 'Вернуться';
-$_['text_confirm_cancel'] = 'Вы уверены, что хотите отменить этот профиль?';
 $_['text_empty_transactions'] = 'В этом профиле транзакции отсутствуют';
 
 $_['column_created'] = 'Создан';

@@ -2,7 +2,6 @@
 // Text
 $_['text_title']           = 'Кредитная / Дебетная карта (Web Payment Software)';
 $_['text_credit_card']     = 'Информация о карте';
-$_['text_wait']            = 'Подождите пожалуйста!';
 
 // Entry
 $_['entry_cc_owner']       = 'Владелец карты:';
