@@ -18,7 +18,7 @@ $_['text_comment']         = "Klarna Invoice ID: %s\n%s/%s: %.4f";
 
 // Entry
 $_['entry_gender']         = 'Пол:';
-$_['entry_pno']            = 'Персональный номер:<br /><span class="help">Пожалйста, введите Ваш Social Security Number</span>';
+$_['entry_pno']            = 'Персональный номер:<br /><span class="help">Пожалуйста, введите Ваш Social Security Number</span>';
 $_['entry_dob']            = 'Дата рождения:';
 $_['entry_phone_no']       = 'Телефон:<br /><span class="help">Укажите ваш номер телефона.</span>';
 $_['entry_street']         = 'Улица:<br /><span class="help">Помните, что доставка осуществляется только на зарегистрированный адрес при оплате посредством Klarna.</span>';
