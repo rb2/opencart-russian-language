@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Профили платежей';
 
-$_['text_success'] = 'Профили платежей упешно обновлены!';
+$_['text_success'] = 'Профили платежей успешно обновлены!';
 $_['text_payment_profiles'] = 'Профили платежей';
 $_['text_status_active'] = 'Активно';
 $_['text_status_inactive'] = 'Неактивно';

@@ -3,7 +3,7 @@
 $_['heading_title']					 = 'PayPal Payments Standard';
 
 // Text
-$_['text_payment']					 = 'Оплатаs';
+$_['text_payment']					 = 'Оплата';
 $_['text_success']                   = 'Настройки модуля обновлены!';
 $_['text_pp_standard']				 = '<a href="https://www.paypal.com/uk/mrb/pal=W9TBB5DTD6QJW" target="_blank"><img src="view/image/payment/paypal.png" alt="PayPal" title="PayPal" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			 = 'Авторизация';

@@ -9,7 +9,7 @@ $_['text_wait']                 = 'Пожалуйста, подождите!';
 $_['text_balance']              = 'Баланс:';
 $_['text_cheque']               = 'Чек';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Банковкий перевод';
+$_['text_bank']                 = 'Банковский перевод';
 
 // Column
 $_['column_name']               = 'Имя партнера';
@@ -43,7 +43,7 @@ $_['entry_code']                = 'Код отслеживания:<span class="
 $_['entry_commission']          = 'Вознаграждение (%):<span class="help">Процент, которые партнер получает за каждый заказ.</span>';
 $_['entry_tax']                 = 'ИНН:';
 $_['entry_payment']             = 'Способ оплаты:';
-$_['entry_cheque']              = 'Имя получателся чека:';
+$_['entry_cheque']              = 'Имя получателя чека:';
 $_['entry_paypal']              = 'PayPal Email аккаунта:';
 $_['entry_bank_name']           = 'Название банка:';
 $_['entry_bank_branch_number']  = 'ABA/BSB номер (Номер отделения):';
