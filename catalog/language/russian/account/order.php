@@ -20,9 +20,9 @@ $_['text_empty']            = 'Вы еще не совершали покупо�
 $_['text_error']            = 'Запрошенный заказ не найден!';
 
 // Column
-$_['column_order_id']       = 'Order ID';
-$_['column_product']        = 'No. of Products';
-$_['column_customer']       = 'Customer';
+$_['column_order_id']       = 'Номер заказа';
+$_['column_product']        = 'Товаров';
+$_['column_customer']       = 'Покупатель';
 $_['column_name']           = 'Название товара';
 $_['column_model']          = 'Модель';
 $_['column_quantity']       = 'Количество';
@@ -34,4 +34,4 @@ $_['column_status']         = 'Статус';
 $_['column_comment']        = 'Комментарий';
 
 // Error
-$_['error_reorder']         = '%s is not currently available to be reordered.';
+$_['error_reorder']         = 'В данный момент "%s" недоступен для заказа.';

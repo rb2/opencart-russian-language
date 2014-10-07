@@ -13,15 +13,15 @@ $_['text_transactions'] = 'Транзакции';
 $_['button_return'] = 'Вернуться';
 $_['text_empty_transactions'] = 'В этом профиле транзакции отсутствуют';
 
-$_['column_created'] = 'Создан';
+$_['column_date_added'] = 'Создан';
 $_['column_type'] = 'Тип';
 $_['column_amount'] = 'Количество (amount)';
 $_['column_status'] = 'Статус';
 $_['column_product'] = 'Товар';
 $_['column_action'] = 'Действие';
-$_['column_profile_id'] = 'Идентификатор профиля';
+$_['column_recurring_id'] = 'Идентификатор профиля';
 
-$_['text_recurring_detail'] = 'Регулярный платёж details';
+$_['text_recurring_detail'] = 'Детальная информация регулярного платёжа';
 $_['text_recurring_id'] = 'Идентификатор профиля: ';
 $_['text_payment_method'] = 'Способ оплаты: ';
 $_['text_date_added'] = 'Создан: ';
@@ -36,7 +36,7 @@ $_['text_status_suspended'] = 'Приостановлен';
 $_['text_status_expired'] = 'Срок действия';
 $_['text_status_pending'] = 'Ожидание';
 
-$_['text_transaction_created'] = 'Создан';
+$_['text_transaction_date_added'] = 'Создан';
 $_['text_transaction_payment'] = 'Платёж';
 $_['text_transaction_outstanding_payment'] = 'Неоплаченный платёж';
 $_['text_transaction_skipped'] = 'Платёж пропущен';
@@ -49,4 +49,4 @@ $_['text_transaction_expired'] = 'Срок действия';
 
 $_['error_not_cancelled'] = 'Ошибка: %s';
 $_['error_not_found'] = 'Невозможно отменить профиль';
-$_['success_cancelled'] = 'Регулярный платёж отменён';
+$_['text_cancelled'] = 'Регулярный платёж отменён';

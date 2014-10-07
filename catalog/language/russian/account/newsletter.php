@@ -8,4 +8,4 @@ $_['text_newsletter']  = 'Рассылка';
 $_['text_success']     = 'Ваша подписка успешно обновлена!';
 
 // Entry
-$_['entry_newsletter'] = 'Подписаться:';
+$_['entry_newsletter'] = 'Подписаться';
