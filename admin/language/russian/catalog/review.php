@@ -4,6 +4,9 @@ $_['heading_title']     = 'Отзывы';
 
 // Text
 $_['text_success']      = 'Список отзывов обновлен!';
+$_['text_list']         = 'Список отзывов';
+$_['text_add']          = 'Добавить отзыв';
+$_['text_edit']         = 'Изменить отзыв';
 
 // Column
 $_['column_product']    = 'Товар';
