@@ -9,7 +9,7 @@ $_['text_content_bottom'] = 'Content Bottom';
 $_['text_column_left'] = 'Column Left';
 $_['text_column_right'] = 'Column Right';
 
-$_['entry_layout'] = 'Layout';
+$_['entry_layout'] = 'Схема';
 $_['entry_position'] = 'Position';
 $_['entry_status'] = 'Status';
 $_['entry_sort_order'] = 'Sort Order';
