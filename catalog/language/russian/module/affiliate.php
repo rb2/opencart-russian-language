@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Партнерский раздел';
+$_['heading_title']    = 'Партнёрский раздел';
 
 // Text
 $_['text_register']    = 'Регистрация';

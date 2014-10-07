@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']        = 'Партнерcкий раздел';
+$_['heading_title']        = 'Партнёрcкий раздел';
 
 // Text
-$_['text_account']         = 'Кабинет Партнера';
-$_['text_my_account']      = 'Моя учетная запись';
+$_['text_account']         = 'Кабинет Партнёра';
+$_['text_my_account']      = 'Моя учётная запись';
 $_['text_my_tracking']     = 'Мои рефералы';
 $_['text_my_transactions'] = 'История выплат';
 $_['text_edit']            = 'Редактировать учетную запись';

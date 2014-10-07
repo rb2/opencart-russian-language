@@ -3,14 +3,14 @@
 $_['heading_title']             = 'Способ оплаты';
 
 // Text
-$_['text_account']              = 'Кабинет Партнера';
+$_['text_account']              = 'Кабинет Партнёра';
 $_['text_payment']              = 'Оплата';
 $_['text_your_payment']         = 'Ваши перечисления';
 $_['text_your_password']        = 'Пароль';
 $_['text_cheque']               = 'Чек';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Банковский перевод';
-$_['text_success']              = 'Учетные данные Партнера успешно обновлены.';
+$_['text_success']              = 'Учетные данные Партнёра успешно обновлены.';
 
 // Entry
 $_['entry_tax']                 = 'Налоговый код:';
