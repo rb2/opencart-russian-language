@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Учетная запись Партнёра успешно создана!';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You can now take advantage of member privileges to enhance your online shopping experience with us.</p> <p>If you have ANY questions about the operation of this online shop, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
+$_['text_message']  = '<p>Поздравляем! Ваша учётная запись успешно создана!</p> <p>Теперь Вы можете воспользоваться преимуществами партнёрских отношений с нашим магазином.</p> <p>Если у Вас возникнут ЛЮБЫЕ вопросы, касающиеся операций с нашим магазином, отправьте нам e-mail.</p> <p>Подтверждение создания учётной записи было отправленона указанный Вами адрес e-mail. Если Вы его не получили в течение часа (проверьте также папку со спамом, может оно там), <a href="%s">свяжитесь с нами</a>, пожалуйста.</p>';
 $_['text_approval'] = '<p>Благодарим за регистрацию нового Партнёра магазина %s!</p><p>Вы получите уведомление на email после активации учётной записи администрацией магазина.</p><p>Любые вопросы о Партнёрской программе можно задать <a href="%s">администрации магазина</a>.</p>';
 $_['text_account']  = 'Кабинет Партнёра';
 $_['text_success']  = 'Успешно';

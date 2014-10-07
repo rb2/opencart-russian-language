@@ -10,19 +10,19 @@ $_['text_your_address'] = 'Ваш адрес';
 $_['text_success']      = 'Ваша учетная запись успешно обновлена.';
 
 // Entry
-$_['entry_firstname']   = 'Имя, Отчество:';
-$_['entry_lastname']    = 'Фамилия:';
-$_['entry_email']       = 'E-Mail:';
-$_['entry_telephone']   = 'Телефон:';
-$_['entry_fax']         = 'Факс:';
-$_['entry_company']     = 'Компания:';
-$_['entry_website']     = 'Веб-сайт:';
-$_['entry_address_1']   = 'Адрес:';
-$_['entry_address_2']   = 'Адрес (продолжение):';
-$_['entry_postcode']    = 'Почтовый индекс:';
-$_['entry_city']        = 'Город:';
-$_['entry_country']     = 'Страна:';
-$_['entry_zone']        = 'Регион / Область:';
+$_['entry_firstname']   = 'Имя, Отчество';
+$_['entry_lastname']    = 'Фамилия';
+$_['entry_email']       = 'E-Mail';
+$_['entry_telephone']   = 'Телефон';
+$_['entry_fax']         = 'Факс';
+$_['entry_company']     = 'Компания';
+$_['entry_website']     = 'Веб-сайт';
+$_['entry_address_1']   = 'Адрес';
+$_['entry_address_2']   = 'Адрес (продолжение)';
+$_['entry_postcode']    = 'Почтовый индекс';
+$_['entry_city']        = 'Город';
+$_['entry_country']     = 'Страна';
+$_['entry_zone']        = 'Регион / Область';
 
 // Error
 $_['error_exists']      = 'Такой E-Mail уже зарегистрирован!';
