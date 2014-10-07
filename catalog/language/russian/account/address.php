@@ -12,16 +12,16 @@ $_['text_delete']          = 'Ваш адрес был успешно удале
 $_['text_empty']           = 'You have no addresses in your account.';
 
 // Entry
-$_['entry_firstname']   = 'Имя, Отчество:';
-$_['entry_lastname']    = 'Фамилия:';
-$_['entry_company']     = 'Компания:';
-$_['entry_address_1']   = 'Адрес 1:';
-$_['entry_address_2']   = 'Адрес 2:';
-$_['entry_postcode']    = 'Почтовый индекс:';
-$_['entry_city']        = 'Город:';
-$_['entry_country']     = 'Страна:';
-$_['entry_zone']        = 'Регион / Область:';
-$_['entry_default']     = 'Основной адрес:';
+$_['entry_firstname']   = 'Имя, Отчество';
+$_['entry_lastname']    = 'Фамилия';
+$_['entry_company']     = 'Компания';
+$_['entry_address_1']   = 'Адрес 1';
+$_['entry_address_2']   = 'Адрес 2';
+$_['entry_postcode']    = 'Почтовый индекс';
+$_['entry_city']        = 'Город';
+$_['entry_country']     = 'Страна';
+$_['entry_zone']        = 'Регион / Область';
+$_['entry_default']     = 'Основной адрес';
 
 // Error
 $_['error_delete']      = 'У Вас должно быть не менее 1 адреса!';

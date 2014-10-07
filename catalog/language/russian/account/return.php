@@ -36,19 +36,19 @@ $_['column_reason']      = 'Причина';
 $_['column_action']      = 'Действие';
 
 // Entry
-$_['entry_order_id']     = '№ заказа:';
-$_['entry_date_ordered'] = 'Дата заказа:';
-$_['entry_firstname']    = 'Имя:';
-$_['entry_lastname']     = 'Фамилия:';
-$_['entry_email']        = 'E-Mail';
-$_['entry_telephone']    = 'Телефон:';
-$_['entry_product']      = 'Наименование товара:';
-$_['entry_model']        = 'Модель:';
-$_['entry_quantity']     = 'Количество:';
-$_['entry_reason']       = 'Причина возврата:';
-$_['entry_opened']       = 'Товар распакован:';
-$_['entry_fault_detail'] = 'Описание дефектов:';
-$_['entry_captcha']      = 'Введите изображение с картинки:';
+$_['entry_order_id']     = '№ заказа';
+$_['entry_date_ordered'] = 'Дата заказа';
+$_['entry_firstname']    = 'Имя';
+$_['entry_lastname']     = 'Фамилия';
+$_['entry_email']        = 'E-Mai';
+$_['entry_telephone']    = 'Телефон';
+$_['entry_product']      = 'Наименование товара';
+$_['entry_model']        = 'Модель';
+$_['entry_quantity']     = 'Количество';
+$_['entry_reason']       = 'Причина возврата';
+$_['entry_opened']       = 'Товар распакован';
+$_['entry_fault_detail'] = 'Описание дефектов';
+$_['entry_captcha']      = 'Введите изображение с картинки';
 
 // Error
 $_['text_error']         = 'Запрос на возврат не найден!';

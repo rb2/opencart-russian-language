@@ -30,5 +30,5 @@ $_['text_model_desc']   = 'Модель (Я - А)';
 $_['text_limit']        = 'Показать:';
 
 // Entry
-$_['entry_search']      = 'Поиск:';
+$_['entry_search']      = 'Поиск';
 $_['entry_description'] = 'Искать в описании товаров';

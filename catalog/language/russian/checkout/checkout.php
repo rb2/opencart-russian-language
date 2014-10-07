@@ -49,25 +49,25 @@ $_['column_price']                   = 'Цена';
 $_['column_total']                   = 'Итого';
 
 // Entry
-$_['entry_email_address']            = 'E-Mail Адрес:';
-$_['entry_email']                    = 'E-Mail:';
-$_['entry_password']                 = 'Пароль:';
-$_['entry_confirm']                  = 'Подтверждение пароля:';
-$_['entry_firstname']                = 'Имя:';
-$_['entry_lastname']                 = 'Фамилия:';
-$_['entry_telephone']                = 'Телефон:';
-$_['entry_fax']                      = 'Факс:';
-$_['entry_company']                  = 'Компания:';
-$_['entry_customer_group']           = 'Группа покупателей:';
-$_['entry_company_id']               = 'Регистрационный номер компании:';
-$_['entry_tax_id']                   = 'Налоговый номер:';
-$_['entry_address_1']                = 'Адрес:';
-$_['entry_address_2']                = 'Адрес (продолжение):';
-$_['entry_postcode']                 = 'Индекс:';
-$_['entry_city']                     = 'Город:';
-$_['entry_country']                  = 'Страна:';
-$_['entry_zone']                     = 'Регион / Область:';
-$_['entry_newsletter']               = 'Я хочу подписаться на рассылку новостей %s.';
+$_['entry_email_address']            = 'E-Mail Адрес';
+$_['entry_email']                    = 'E-Mail';
+$_['entry_password']                 = 'Пароль';
+$_['entry_confirm']                  = 'Подтверждение пароля';
+$_['entry_firstname']                = 'Имя';
+$_['entry_lastname']                 = 'Фамилия';
+$_['entry_telephone']                = 'Телефон';
+$_['entry_fax']                      = 'Факс';
+$_['entry_company']                  = 'Компания';
+$_['entry_customer_group']           = 'Группа покупателей';
+$_['entry_company_id']               = 'Регистрационный номер компании';
+$_['entry_tax_id']                   = 'Налоговый номер';
+$_['entry_address_1']                = 'Адрес';
+$_['entry_address_2']                = 'Адрес (продолжение)';
+$_['entry_postcode']                 = 'Индекс';
+$_['entry_city']                     = 'Город';
+$_['entry_country']                  = 'Страна';
+$_['entry_zone']                     = 'Регион / Область';
+$_['entry_newsletter']               = 'Я хочу подписаться на рассылку новостей магазина %s.';
 $_['entry_shipping'] 	             = 'Мой адрес доставки совпадает с платёжным.';
 
 // Error
