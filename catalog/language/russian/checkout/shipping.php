@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']        = 'Estimate Shipping &amp; Taxes';
+$_['heading_title']        = 'Приблизительная стоимость доставки и налоги';
 
 // Text
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
-$_['text_shipping']        = 'Enter your destination to get a shipping estimate.';
-$_['text_shipping_method'] = 'Please select the preferred shipping method to use on this order.';
+$_['text_success']         = 'Оценка стоимости доставки успешно применена к заказу!';
+$_['text_shipping']        = 'Введите ваш адрес, чтобы получить приблизительную оценку стоимости доставки.';
+$_['text_shipping_method'] = 'Выберите предпочтительный способ доставки для использования в этом заказе.';
 
 // Entry
-$_['entry_country']        = 'Country';
-$_['entry_zone']           = 'Region / State';
-$_['entry_postcode']       = 'Post Code';
+$_['entry_country']        = 'Страна';
+$_['entry_zone']           = 'Область или штат';
+$_['entry_postcode']       = 'Почтовый индекс';
 
 // Error
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_shipping']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_postcode']       = 'Почтовый индекс должен быть длиной от 2 до 10 символов!';
+$_['error_country']        = 'Укажите страну, пожалуйста!';
+$_['error_zone']           = 'Укажите район или штат, пожалуйста!';
+$_['error_shipping']       = 'Необходимо указать способ доставки!';
+$_['error_no_shipping']    = 'Нет доступных вариантов доставки. Пожалуйста, <a href="%s">свяжитесь с нами</a> для получения помощи!';
