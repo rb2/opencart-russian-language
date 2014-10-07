@@ -18,7 +18,7 @@ $_['tab_patch']							= 'Патчи';
 // Text
 $_['text_success']         				= 'Настройки успешно сохранены';
 $_['text_products']          			= 'Элементы';
-$_['text_orders']          				= 'Заявки';
+$_['text_orders']          				= 'Заказы';
 $_['text_manage']          				= 'Управление';
 $_['text_help']                     	= 'Помощь';
 $_['text_tutorials']                    = 'Инструкции';
