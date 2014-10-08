@@ -8,9 +8,9 @@ $_['text_shipping']    = 'Бесплатная доставка';
 
 // Entry
 $_['entry_total']      = 'Порог стоимости:<br /><span class="help">Минимальная сумма, необходимая для того, чтобы бесплатная доставка стала доступна.</span>';
-$_['entry_geo_zone']   = 'Географическая зона:';
-$_['entry_status']     = 'Статус:';
-$_['entry_sort_order'] = 'Порядок сортировки:';
+$_['entry_geo_zone']   = 'Географическая зона';
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортировки';
 
 // Help
 $_['help_total']       = 'Sub-Total amount needed before the free shipping module becomes available.';

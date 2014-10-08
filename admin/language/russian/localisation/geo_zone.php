@@ -11,10 +11,10 @@ $_['column_description'] = 'Описание';
 $_['column_action']      = 'Действие';
 
 // Entry
-$_['entry_name']         = 'Название географической зоны:';
-$_['entry_description']  = 'Описание:';
-$_['entry_country']      = 'Страна:';
-$_['entry_zone']         = 'Регион / Область:';
+$_['entry_name']         = 'Название географической зоны';
+$_['entry_description']  = 'Описание';
+$_['entry_country']      = 'Страна';
+$_['entry_zone']         = 'Регион / Область';
 
 // Error
 // $_['error_permission']   = 'У Вас нет прав для изменения географических зон!';

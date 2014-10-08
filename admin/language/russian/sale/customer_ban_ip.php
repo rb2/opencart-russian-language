@@ -11,7 +11,7 @@ $_['column_customer']  = 'Покупатели';
 $_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_ip']         = 'IP:';
+$_['entry_ip']         = 'IP';
 
 // Error
 // $_['error_permission'] = 'У Вас нет прав для изменения черного списка IP-адресов покупателей!';

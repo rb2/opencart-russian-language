@@ -12,14 +12,14 @@ $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Название:';
+$_['entry_name']        = 'Название';
 $_['entry_code']        = 'Код';
 $_['entry_locale']      = 'Кодировка';
 $_['entry_image']       = 'Изображение';
 $_['entry_directory']   = 'Директория';
 $_['entry_filename']    = 'Файл перевода';
 $_['entry_status']      = 'Статус';
-$_['entry_sort_order']  = 'Порядок сортировки:';
+$_['entry_sort_order']  = 'Порядок сортировки';
 
 // Help
 $_['help_code']         = 'Например: ru. НЕ ИЗМЕНЯТЬ, если язык установлен по умолчанию.';

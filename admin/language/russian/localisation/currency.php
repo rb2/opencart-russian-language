@@ -13,13 +13,13 @@ $_['column_date_modified'] = 'Дата последнего обновления
 $_['column_action']        = 'Действие';
 
 // Entry
-$_['entry_title']          = 'Название валюты:';
+$_['entry_title']          = 'Название валюты';
 $_['entry_code']           = 'Код';
 $_['entry_value']          = 'Значение';
-$_['entry_symbol_left']    = 'Символ слева:';
-$_['entry_symbol_right']   = 'Символ справа:';
-$_['entry_decimal_place']  = 'Количество знаков после запятой:';
-$_['entry_status']         = 'Статус:';
+$_['entry_symbol_left']    = 'Символ слева';
+$_['entry_symbol_right']   = 'Символ справа';
+$_['entry_decimal_place']  = 'Количество знаков после запятой';
+$_['entry_status']         = 'Статус';
 
 // Help
 $_['help_code']            = 'НЕ ИЗМЕНЯЙТЕ, если валюта установлена по умолчанию. Должно быть одним из <a href="http://www.xe.com/iso4217.php" target="_blank">ISO кодов</a> валюты.';

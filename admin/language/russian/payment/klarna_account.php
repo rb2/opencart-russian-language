@@ -18,13 +18,13 @@ $_['text_netherlands']      = 'Нидерланды';
 // Entry
 $_['entry_merchant']        = 'Klarna Merchant ID';
 $_['entry_secret']          = 'Klarna Secret';
-$_['entry_server']          = 'Сервер:';
+$_['entry_server']          = 'Сервер';
 $_['entry_total']           = 'Минимальная сумма заказа';
-$_['entry_pending_status']  = 'Статус при ожидании:';
-$_['entry_accepted_status'] = 'Статус принятого платежа:';
-$_['entry_geo_zone']        = 'Географическая зона:';
-$_['entry_status']          = 'Статус:';
-$_['entry_sort_order']      = 'Порядок сортировки:';
+$_['entry_pending_status']  = 'Статус при ожидании';
+$_['entry_accepted_status'] = 'Статус принятого платежа';
+$_['entry_geo_zone']        = 'Географическая зона';
+$_['entry_status']          = 'Статус';
+$_['entry_sort_order']      = 'Порядок сортировки';
 
 // Help
 $_['help_merchant']         = '(estore id) для использования сервиса (предоставляется Klarna).';

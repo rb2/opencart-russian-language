@@ -12,10 +12,10 @@ $_['text_column_right']   = 'Правая колонка';
 
 // Entry
 $_['entry_code']          = 'Код';
-$_['entry_layout']        = 'Схема:';
-$_['entry_position']      = 'Расположение:';
-$_['entry_status']        = 'Статус:';
-$_['entry_sort_order']    = 'Порядок сортировки:';
+$_['entry_layout']        = 'Схема';
+$_['entry_position']      = 'Расположение';
+$_['entry_status']        = 'Статус';
+$_['entry_sort_order']    = 'Порядок сортировки';
 
 // Help
 $_['help_code']           = 'Перейдите на страницу <a href="http://www.google.com/talk/service/badge/New" target="_blank">Создание виджета Google Talk</a>. Скопируйте и вставьте сгенерированный код в текстовое поле.';

@@ -12,10 +12,10 @@ $_['column_country']         = 'Страна';
 $_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_status']           = 'Статус:';
-$_['entry_name']             = 'Название региона:';
-$_['entry_code']             = 'Код региона:';
-$_['entry_country']          = 'Страна:';
+$_['entry_status']           = 'Статус';
+$_['entry_name']             = 'Название региона';
+$_['entry_code']             = 'Код региона';
+$_['entry_country']          = 'Страна';
 
 // Error
 // $_['error_permission']       = 'У Вас нет прав для изменения списка регионов!';

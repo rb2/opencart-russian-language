@@ -12,14 +12,14 @@ $_['text_pay']           = 'LIQPAY';
 $_['text_card']          = 'Credit Card';
 
 // Entry
-$_['entry_merchant']     = 'Merchant ID:';
-$_['entry_signature']    = 'Signature:';
-$_['entry_type']         = 'Type:';
+$_['entry_merchant']     = 'Merchant ID';
+$_['entry_signature']    = 'Signature';
+$_['entry_type']         = 'Type';
 $_['entry_total']        = 'Нижняя граница';
-$_['entry_order_status'] = 'Статус заказа после оплаты:';
-$_['entry_geo_zone']     = 'Географическая зона:';
-$_['entry_status']       = 'Статус:';
-$_['entry_sort_order']   = 'Порядок сортировки:';
+$_['entry_order_status'] = 'Статус заказа после оплаты';
+$_['entry_geo_zone']     = 'Географическая зона';
+$_['entry_status']       = 'Статус';
+$_['entry_sort_order']   = 'Порядок сортировки';
 
 // Help
 $_['help_total']         = 'Минимальная сумма заказа. Ниже этой суммы метод будет недоступен.';

@@ -11,14 +11,14 @@ $_['text_moneybookers']	      = '<a href="https://www.moneybookers.com/partners/
 $_['entry_email']		      = 'E-Mail';
 $_['entry_secret']		      = 'Secret';
 $_['entry_total']             = 'Нижняя граница';
-$_['entry_order_status']      = 'Order Status:';
-$_['entry_pending_status']    = 'Pending Status :';
-$_['entry_canceled_status']   = 'Canceled Status:';
-$_['entry_failed_status']     = 'Failed Status:';
-$_['entry_chargeback_status'] = 'Chargeback Status:';
-$_['entry_geo_zone']          = 'Geo Zone:';
-$_['entry_status']            = 'Status:';
-$_['entry_sort_order']        = 'Sort Order:';
+$_['entry_order_status']      = 'Order Status';
+$_['entry_pending_status']    = 'Pending Status ';
+$_['entry_canceled_status']   = 'Canceled Status';
+$_['entry_failed_status']     = 'Failed Status';
+$_['entry_chargeback_status'] = 'Chargeback Status';
+$_['entry_geo_zone']          = 'Geo Zone';
+$_['entry_status']            = 'Status';
+$_['entry_sort_order']        = 'Sort Order';
 
 // Help
 $_['help_total']              = 'Минимальная сумма заказа. Ниже этой суммы метод будет недоступен.';

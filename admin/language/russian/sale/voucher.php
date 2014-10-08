@@ -21,14 +21,14 @@ $_['column_action']     = 'Действия';
 
 // Entry
 $_['entry_code']        = 'Код:<br /><span class="help">Код, который покупатель вводит для активации подарочного сертификата.</span>';
-$_['entry_from_name']   = 'Имя отправителя:';
-$_['entry_from_email']  = 'E-Mail отправителя:';
-$_['entry_to_name']     = 'Имя получателя:';
-$_['entry_to_email']    = 'E-Mail получателя:';
-$_['entry_theme']       = 'Тематика:';
-$_['entry_message']     = 'Сообщение:';
-$_['entry_amount']      = 'Сумма:';
-$_['entry_status']      = 'Статус:';
+$_['entry_from_name']   = 'Имя отправителя';
+$_['entry_from_email']  = 'E-Mail отправителя';
+$_['entry_to_name']     = 'Имя получателя';
+$_['entry_to_email']    = 'E-Mail получателя';
+$_['entry_theme']       = 'Тематика';
+$_['entry_message']     = 'Сообщение';
+$_['entry_amount']      = 'Сумма';
+$_['entry_status']      = 'Статус';
 
 // Help
 $_['help_code']         = 'The code the customer enters to activate the voucher.';

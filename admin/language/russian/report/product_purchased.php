@@ -14,6 +14,6 @@ $_['column_quantity']   = 'Количество';
 $_['column_total']      = 'Итого';
 
 // Entry
-$_['entry_date_start']  = 'Дата начала:';
-$_['entry_date_end']    = 'Дата окончания:';
-$_['entry_status']      = 'Статус заказа:';
+$_['entry_date_start']  = 'Дата начала';
+$_['entry_date_end']    = 'Дата окончания';
+$_['entry_status']      = 'Статус заказа';

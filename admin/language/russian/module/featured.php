@@ -12,14 +12,14 @@ $_['text_column_right']   = 'Правая колонка';
 
 // Entry
 $_['entry_product']       = 'Товары';
-$_['entry_limit']         = 'Лимит:';
+$_['entry_limit']         = 'Лимит';
 $_['entry_image']         = 'Изображение (Ширина x Высота) и способо изменения размеров';
 $_['entry_width']         = 'Ширина';
 $_['entry_height']        = 'Высота';
-$_['entry_layout']        = 'Схема:';
-$_['entry_position']      = 'Расположение:';
-$_['entry_status']        = 'Статус:';
-$_['entry_sort_order']    = 'Порядок сортировки:';
+$_['entry_layout']        = 'Схема';
+$_['entry_position']      = 'Расположение';
+$_['entry_status']        = 'Статус';
+$_['entry_sort_order']    = 'Порядок сортировки';
 
 // Help
 $_['help_product']        = '(Работает автодополнение)';

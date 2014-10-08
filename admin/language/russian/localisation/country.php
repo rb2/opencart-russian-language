@@ -12,12 +12,12 @@ $_['column_iso_code_3']       = 'Код ISO (3)';
 $_['column_action']           = 'Действие';
 
 // Entry
-$_['entry_name']              = 'Название страны:';
-$_['entry_iso_code_2']        = 'Код ISO (2):';
-$_['entry_iso_code_3']        = 'Код ISO (3):';
-$_['entry_address_format']    = 'Формат адреса';
-$_['entry_postcode_required'] = 'Индекс обязателен:';
-$_['entry_status']            = 'Статус:';
+$_['entry_name']              = 'Название страны';
+$_['entry_iso_code_2']        = 'Код ISO (2)';
+$_['entry_iso_code_3']        = 'Код ISO (3)';
+$_['entry_address_format']    = 'Формат адрес';
+$_['entry_postcode_required'] = 'Индекс обязателен';
+$_['entry_status']            = 'Статус';
 
 // Help
 $_['help_address_format']     = 'Имя, Отчество = {firstname}<br />

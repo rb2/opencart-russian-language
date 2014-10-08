@@ -15,7 +15,7 @@ $_['column_date_end']   = 'Дата окончания';
 $_['column_returns']    = 'Кол-во возвратов';
 
 // Entry
-$_['entry_date_start']  = 'Дата начала:';
-$_['entry_date_end']    = 'Дата окончания:';
-$_['entry_group']       = 'Сортировать по:';
-$_['entry_status']      = 'Статус заказа:';
+$_['entry_date_start']  = 'Дата начала';
+$_['entry_date_end']    = 'Дата окончания';
+$_['entry_group']       = 'Сортировать по';
+$_['entry_status']      = 'Статус заказа';

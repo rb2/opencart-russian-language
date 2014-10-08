@@ -23,9 +23,9 @@ $_['entry_meta_keyword'] 	 = 'Meta Keywords';
 $_['entry_meta_description'] = 'Meta Description';
 $_['entry_keyword']     = 'Ключевое слово для SEO URL';
 $_['entry_bottom']      = 'Показывать внизу';
-$_['entry_status']      = 'Статус:';
+$_['entry_status']      = 'Статус';
 $_['entry_sort_order']  = 'Порядок сортировки'; // -1 для скрытия
-$_['entry_layout']      = 'Выберите схему:';
+$_['entry_layout']      = 'Выберите схему';
 
 // Help
 $_['help_keyword']           = 'Заменяйте пробелы на знак &quot;-&quot;. Значение этого поля должно быть УНИКАЛЬНЫМ по всему магазину.';

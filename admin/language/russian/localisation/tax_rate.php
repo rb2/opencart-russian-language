@@ -17,11 +17,11 @@ $_['column_date_modified'] = 'Изменено';
 $_['column_action']        = 'Действие';
 
 // Entry
-$_['entry_name']           = 'Название:';
-$_['entry_rate']           = 'Ставка:';
-$_['entry_type']           = 'Тип:';
-$_['entry_customer_group'] = 'Группа покупателей:';
-$_['entry_geo_zone']       = 'Географическая зона:';
+$_['entry_name']           = 'Название';
+$_['entry_rate']           = 'Ставка';
+$_['entry_type']           = 'Тип';
+$_['entry_customer_group'] = 'Группа покупателей';
+$_['entry_geo_zone']       = 'Географическая зона';
 
 // Error
 // $_['error_permission']     = 'У Вас нет прав для изменения налоговых ставок!';
