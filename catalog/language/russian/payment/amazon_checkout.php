@@ -1,26 +1,26 @@
 <?php
-//Headings
-$_['heading_title']             = 'Amazon Payments';
-$_['heading_address']           = 'Please choose a delivery address';
-$_['heading_payment']           = 'Please select a payment method';
+// Heading
+$_['heading_title']             = 'Платежи Amazon';
+$_['heading_address']           = 'Пожалуйста, выберите адрес доставки';
+$_['heading_payment']           = 'Пожалуйста, выберите способ оплаты';
 $_['heading_confirm']           = 'Order summary';
 
 //Text
-$_['text_back']                 = 'Back';
-$_['text_cart']                 = 'Cart';
-$_['text_confirm']              = 'Confirm';
-$_['text_continue']             = 'Continue';
-$_['text_cba']                  = 'Amazon Payments';
-$_['text_enter_coupon']         = 'Enter your coupon code here. If you don\'t have one, leave it empty.';
-$_['text_coupon']               = 'Coupon';
-$_['text_tax_other']            = 'Taxes / Other handling fees';
-$_['text_payment_failed']       = 'Your payment has failed. Please contact the shop administrator for assistance or use a different payment option.';
-$_['text_success_title']        = 'Your order has been placed!';
-$_['text_payment_success']      = 'Your order was successfully placed. Order details are below';
+$_['text_back']                 = 'Назад';
+$_['text_cart']                 = 'Корзина покупок';
+$_['text_confirm']              = 'Подтверждаю';
+$_['text_continue']             = 'Продолжить';
+$_['text_cba']                  = 'Платежи Amazon';
+$_['text_enter_coupon']         = 'Введите здесь код купона. Если у вас его нет - оставьте поле пустым.';
+$_['text_coupon']               = 'Купон';
+$_['text_tax_other']            = 'Налоги / Другие сборы по обработке заказа';
+$_['text_payment_failed']       = 'Платёж не удался. Пожалуйста, свяжитесь с администрацией магазина для получения помощи или используйте другой способ оплаты.';
+$_['text_success_title']        = 'Ваш заказ оформлен!';
+$_['text_payment_success']      = 'Ваш заказ был успешно создан. Детальная информация о заказе указана ниже';
 
-//Errors
-$_['error_payment_method']      = 'Please select a payment method';
-$_['error_shipping']            = 'Please select a shipping method';
-$_['error_shipping_address']    = 'Please select a delivery address';
-$_['error_shipping_methods']    = 'There was an error retrieving your address from Amazon. Please contact the shop administrator for help';
-$_['error_no_shipping_methods'] = 'There are no shipping options to the selected address. Please select a different shipping address';
+// Error
+$_['error_payment_method']      = 'Пожалуйста, выберите способ оплаты';
+$_['error_shipping']            = 'Пожалуйста, выберите способ доставки';
+$_['error_shipping_address']    = 'Пожалуйста, выберите адрес доставки';
+$_['error_shipping_methods']    = 'Произошла ошибка при получении вашего адреса с Amazon. Пожалуйста, свяжитесь с администрацией магазина для получения помощи.';
+$_['error_no_shipping_methods'] = 'Отсутствуют варианты доставки по выбранному адресу. Пожалуйста, выберите другой адрес доставки.';

@@ -7,4 +7,4 @@ $_['text_credit_card']     = 'Информация о карте';
 $_['entry_cc_owner']       = 'Владелец карты';
 $_['entry_cc_number']      = 'Номер карты';
 $_['entry_cc_expire_date'] = 'Дата окончания действия';
-$_['entry_cc_cvv2']        = 'Card Security Code (CVV2)';
+$_['entry_cc_cvv2']        = 'CVV2-код';

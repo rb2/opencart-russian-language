@@ -1,5 +1,4 @@
 <?php
-
 // Text
 $_['text_title'] = 'Credit Card / Debit Card (SagePay)';
 $_['text_credit_card'] = 'Card Details';
@@ -11,8 +10,6 @@ $_['text_card_expiry'] = 'Expiry: ';
 $_['text_trial'] = '%s every %s %s for %s payments then ';
 $_['text_recurring'] = '%s every %s %s';
 $_['text_length'] = ' for %s payments';
-
-// Returned text
 $_['text_success'] = 'Your payment has been authorised.';
 $_['text_decline'] = 'Your payment has been declined.';
 $_['text_bank_error'] = 'There was an error processing your request with the bank.';

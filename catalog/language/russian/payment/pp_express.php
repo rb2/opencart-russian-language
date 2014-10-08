@@ -1,4 +1,7 @@
 <?php
+// Heading
+$_['express_text_title']		= 'Confirm order';
+
 // Text
 $_['text_title']                    = 'PayPal Express Checkout';
 $_['button_continue']               = 'Продолжить';
@@ -9,17 +12,16 @@ $_['text_recurring']                = '%s каждые %s %s';
 $_['text_recurring_item']           = 'Recurring Item';
 $_['text_length']                   = ' для %s платежей';
 
-// Buttons
-$_['button_cancel_profile'] 		= 'Cancel payments';
+// Entry
+$_['express_entry_coupon']		= 'Enter your coupon here:';
 
-// Standard checkout error page
+// Button
+$_['express_button_coupon']		= 'Add';
+$_['express_button_confirm']	= 'Confirm';
+$_['express_button_login']		= 'Continue to PayPal';
+$_['express_button_shipping']	= 'Update shipping';
+$_['button_cancel_recurring']	= 'Cancel payments';
+
+// Error
 $_['error_heading_title']           = 'Произошла ошибка';
 $_['error_too_many_failures']       = 'Слишком большое число неудачных платежей';
-
-// Express confirm page
-$_['express_text_title']            = 'Подтвердить заказ';
-$_['express_button_coupon']         = 'Добавить';
-$_['express_button_confirm']        = 'Подтвердить';
-$_['express_button_login']          = 'Продолжить с PayPal';
-$_['express_button_shipping']       = 'Обновить доставку';
-$_['express_entry_coupon']          = 'Введите номер купона:';

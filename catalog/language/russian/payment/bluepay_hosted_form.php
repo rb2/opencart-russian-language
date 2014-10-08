@@ -7,21 +7,18 @@ $_['text_card_type']		 = 'Card Type: ';
 $_['text_card_name']		 = 'Card Name: ';
 $_['text_card_digits']		 = 'Last Digits: ';
 $_['text_card_expiry']		 = 'Expiry: ';
-
-// Returned text
 $_['text_transaction_error'] = 'There was an error processing your transaction - ';
-
 
 // Entry
 $_['entry_card']        	= 'New or Existing Card: ';
 $_['entry_card_existing']	= 'Existing';
 $_['entry_card_new']		= 'New';
 $_['entry_card_save']		= 'Remember Card Details';
-$_['entry_cc_owner']		= 'Card Owner';
-$_['entry_cc_number']		= 'Card Number';
-$_['entry_cc_start_date']	= 'Card Valid From Date';
-$_['entry_cc_expire_date']	= 'Card Expiry Date';
-$_['entry_cc_cvv2']			= 'Card Security Code (CVV2)';
+$_['entry_cc_owner']		= 'Владелец карточки';
+$_['entry_cc_number']		= 'Номер карточки';
+$_['entry_cc_start_date']	= 'Дата начала действия карты';
+$_['entry_cc_expire_date']	= 'Срок действия карты';
+$_['entry_cc_cvv2']         = 'CVV2-код';
 $_['entry_cc_address']	    = 'Street Address';
 $_['entry_cc_city']	        = 'City';
 $_['entry_cc_state']	    = 'State';
