@@ -46,7 +46,7 @@ $_['button_cancel']                 = 'Cancel';
 $_['button_save']                   = 'Save';
 
 // Errors
-$_['error_permissions']             = 'You do not have permissions to modify this module';
+// $_['error_permissions']             = 'You do not have permissions to modify this module';
 $_['error_empty_access_secret']     = 'Secret Key is required';
 $_['error_empty_access_key']        = 'Access Key is required';
 $_['error_empty_merchant_id']       = 'Merchant ID is required';
@@ -69,7 +69,7 @@ $_['text_background']               = 'Background';
 $_['text_download']                 = '<a href="%s" target="_blank"><u>Download</u></a> template file from Amazon Seller Central.';
 
 // Messages
-$_['text_success']                  = 'Amazon Payments module has been updated';
+// $_['text_success']                  = 'Amazon Payments module has been updated';
 
 // Order Info
 $_['text_amazon_details']           = 'Amazon Details';

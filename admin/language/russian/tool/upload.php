@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Загруженные покупателями файлы';
 
 // Text
-$_['text_success']      = 'Success: You have modified upload!';
+// $_['text_success']      = 'Success: You have modified upload!';
 
 // Column
 $_['column_name']       = 'Upload Name';
@@ -17,4 +17,4 @@ $_['entry_filename']    = 'Filename';
 $_['entry_date_added'] 	= 'Date Added';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify uploads!';
+// $_['error_permission']  = 'Warning: You do not have permission to modify uploads!';

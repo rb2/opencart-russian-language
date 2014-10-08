@@ -4,7 +4,7 @@ $_['heading_title']					 = 'PayPal Payments Standard';
 
 // Text
 $_['text_payment']					 = 'Оплата';
-$_['text_success']                   = 'Настройки модуля обновлены!';
+// $_['text_success']                   = 'Настройки модуля обновлены!';
 $_['text_pp_standard']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			 = 'Авторизация';
 $_['text_sale']						 = 'Продажа';
@@ -31,10 +31,10 @@ $_['entry_processed_status']		 = 'Processed Status (обработанный)';
 $_['entry_refunded_status']			 = 'Refunded Status (возвращённый)';
 $_['entry_reversed_status']			 = 'Reversed Status';
 $_['entry_voided_status']		     = 'Voided Status (аннулированный)';
-$_['entry_geo_zone']                 = 'Географическая зона:';
-$_['entry_status']                   = 'Статус:';
-$_['entry_sort_order']               = 'Порядок сортировки:';
+$_['entry_geo_zone']                 = 'Географическая зона';
+$_['entry_status']                   = 'Статус';
+$_['entry_sort_order']               = 'Порядок сортировки';
 
 // Error
-$_['error_permission']               = 'У Вас нет прав для управления этим модулем!';
+// $_['error_permission']               = 'У Вас нет прав для управления этим модулем!';
 $_['error_email']					 = 'Не заполнено поле E-Mail!';

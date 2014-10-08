@@ -4,7 +4,7 @@ $_['heading_title']             = 'Web Payment Software';
 
 // Text
 $_['text_payment']              = 'Payment';
-$_['text_success']              = 'Success: You have modified Web Payment Software account details!';
+// $_['text_success']              = 'Success: You have modified Web Payment Software account details!';
 $_['text_web_payment_software'] = '<a href="http://www.web-payment-software.com/" target="_blank"><img src="view/image/payment/wps-logo.jpg" alt="Web Payment Software" title="Web Payment Software" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_test']                 = 'Test';
 $_['text_live']                 = 'Live';
@@ -26,6 +26,6 @@ $_['entry_sort_order']          = 'Sort Order';
 $_['help_total']                = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']          = 'Warning: You do not have permission to modify payment Web Payment Software!';
+// $_['error_permission']          = 'Warning: You do not have permission to modify payment Web Payment Software!';
 $_['error_login']               = 'Login ID Required!';
 $_['error_key']                 = 'Transaction Key Required!';

@@ -4,10 +4,10 @@ $_['heading_title']      = 'PayPoint';
 
 // Text
 $_['text_payment']       = 'Оплата';
-$_['text_success']       = 'Настройки модуля обновлены!';
+// $_['text_success']       = 'Настройки модуля обновлены!';
 $_['text_paypoint']      = '<a href="https://www.paypoint.net/partners/opencart" target="_blank"><img src="view/image/payment/paypoint.png" alt="PayPoint" title="PayPoint" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_live']          = 'Режим реальных платежей';
-$_['text_successful']    = 'Всегда УСПЕШНО';
+// $_['text_successful']    = 'Всегда УСПЕШНО';
 $_['text_fail']          = 'Всегда ОШИБКА';
 
 // Entry
@@ -25,5 +25,5 @@ $_['help_password']      = 'Оставьте пустым, если у вас н
 $_['help_total']         = 'Сумма заказа, после достижения которой данный способ станет доступен.';
 
 // Error
-$_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
+// $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_merchant']     = 'Требуется Merchant ID!';

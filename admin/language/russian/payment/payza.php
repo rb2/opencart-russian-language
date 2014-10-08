@@ -4,7 +4,7 @@ $_['heading_title']      = 'Payza';
 
 // Text
 $_['text_payment']       = 'Оплата';
-$_['text_success']       = 'Настройки модуля обновлены!';
+// $_['text_success']       = 'Настройки модуля обновлены!';
 
 // Entry
 $_['entry_merchant']     = 'Merchant ID';
@@ -21,6 +21,6 @@ $_['help_callback']      = 'Это должно быть установлено 
 $_['help_total']         = 'Сумма заказа, после достижения которой данный способ станет доступен.';
 
 // Error
-$_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
+// $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_merchant']     = 'Отсутствует Merchant ID!';
 $_['error_security']     = 'Отсутствует Security Code!';

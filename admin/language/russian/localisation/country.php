@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Страны';
 
 // Text
-$_['text_success']            = 'Список стран обновлён!';
+// $_['text_success']            = 'Список стран обновлён!';
 
 // Column
 $_['column_name']             = 'Название страны';
@@ -12,12 +12,12 @@ $_['column_iso_code_3']       = 'Код ISO (3)';
 $_['column_action']           = 'Действие';
 
 // Entry
-$_['entry_name']              = 'Название страны:';
-$_['entry_iso_code_2']        = 'Код ISO (2):';
-$_['entry_iso_code_3']        = 'Код ISO (3):';
-$_['entry_address_format']    = 'Формат адреса';
-$_['entry_postcode_required'] = 'Индекс обязателен:';
-$_['entry_status']            = 'Статус:';
+$_['entry_name']              = 'Название страны';
+$_['entry_iso_code_2']        = 'Код ISO (2)';
+$_['entry_iso_code_3']        = 'Код ISO (3)';
+$_['entry_address_format']    = 'Формат адрес';
+$_['entry_postcode_required'] = 'Индекс обязателен';
+$_['entry_status']            = 'Статус';
 
 // Help
 $_['help_address_format']     = 'Имя, Отчество = {firstname}<br />
@@ -32,7 +32,7 @@ $_['help_address_format']     = 'Имя, Отчество = {firstname}<br />
 Страна = {country}';
 
 // Error
-$_['error_permission']        = 'У Вас нет прав для изменения списка стран';
+// $_['error_permission']        = 'У Вас нет прав для изменения списка стран';
 $_['error_name']              = 'Название страны должно быть от 3 до 128 символов!';
 $_['error_default']           = 'Эту страну нельзя удалить, поскольку она назначена страной по умолчанию для магазина!';
 $_['error_store']             = 'Эту страну нельзя удалить, поскольку она используется в %s магазинах!';

@@ -12,7 +12,7 @@ $_['column_actions'] = 'Actions';
 
 //Text
 $_['text_payment'] = 'Payment';
-$_['text_success'] = 'Success: You have modified PayPal Payflow Pro iFrame account details!';
+// $_['text_success'] = 'Success: You have modified PayPal Payflow Pro iFrame account details!';
 $_['text_pp_payflow_iframe'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Authorization';
 $_['text_sale'] = 'Sale';
@@ -74,23 +74,23 @@ $_['entry_void'] = 'Void';
 $_['entry_capture'] = 'Capture';
 $_['entry_transactions'] = 'Transactions';
 $_['entry_complete_capture'] = 'Complete Capture';
-$_['entry_canceled_reversal_status'] = 'Canceled Reversal Status:';
-$_['entry_completed_status'] = 'Completed Status:';
-$_['entry_denied_status'] = 'Denied Status:';
-$_['entry_expired_status'] = 'Expired Status:';
-$_['entry_failed_status'] = 'Failed Status:';
-$_['entry_pending_status'] = 'Pending Status:';
-$_['entry_processed_status'] = 'Processed Status:';
-$_['entry_refunded_status'] = 'Refunded Status:';
-$_['entry_reversed_status'] = 'Reversed Status:';
-$_['entry_voided_status'] = 'Voided Status:';
-$_['entry_cancel_url'] = 'Cancel URL:';
-$_['entry_error_url'] = 'Error URL:';
-$_['entry_return_url'] = 'Return URL:';
-$_['entry_post_url'] = 'Silent POST URL:';
+$_['entry_canceled_reversal_status'] = 'Canceled Reversal Status';
+$_['entry_completed_status'] = 'Completed Status';
+$_['entry_denied_status'] = 'Denied Status';
+$_['entry_expired_status'] = 'Expired Status';
+$_['entry_failed_status'] = 'Failed Status';
+$_['entry_pending_status'] = 'Pending Status';
+$_['entry_processed_status'] = 'Processed Status';
+$_['entry_refunded_status'] = 'Refunded Status';
+$_['entry_reversed_status'] = 'Reversed Status';
+$_['entry_voided_status'] = 'Voided Status';
+$_['entry_cancel_url'] = 'Cancel URL';
+$_['entry_error_url'] = 'Error URL';
+$_['entry_return_url'] = 'Return URL';
+$_['entry_post_url'] = 'Silent POST URL';
 
 //Errors
-$_['error_permission'] = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
+// $_['error_permission'] = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
 $_['error_vendor'] = 'Vendor Required!';
 $_['error_user'] = 'User Required!';
 $_['error_password'] = 'Password Required!';

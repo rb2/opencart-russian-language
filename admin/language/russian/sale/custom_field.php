@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Custom Fields';
 
 // Text
-$_['text_success']          = 'Success: You have modified custom fields!';
+// $_['text_success']          = 'Success: You have modified custom fields!';
 $_['text_choose']           = 'Choose';
 $_['text_select']           = 'Select';
 $_['text_radio']            = 'Radio';
@@ -37,7 +37,7 @@ $_['entry_status']          = 'Status';
 $_['entry_sort_order']      = 'Sort Order';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify custom fields!';
+// $_['error_permission']      = 'Warning: You do not have permission to modify custom fields!';
 $_['error_name']            = 'Custom Field Name must be between 1 and 128 characters!';
 $_['error_type']            = 'Warning: Custom Field Values required!';
 $_['error_custom_value']    = 'Custom Value Name must be between 1 and 128 characters!';

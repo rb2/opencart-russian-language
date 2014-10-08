@@ -4,7 +4,7 @@ $_['heading_title']                     = 'PayPal Express Checkout';
 
 // Text
 $_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified PayPal Express Checkout account details!';
+// $_['text_success']       = 'Success: You have modified PayPal Express Checkout account details!';
 $_['text_pp_express']                   = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Authorization';
 $_['text_sale']          = 'Sale';
@@ -54,7 +54,7 @@ $_['entry_header_colour']               = 'Header background colour';
 $_['entry_page_colour']                 = 'Page background colour';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment PayPal Express Checkout!';
+// $_['error_permission']   = 'Warning: You do not have permission to modify payment PayPal Express Checkout!';
 $_['error_username']     = 'API Username Required!';
 $_['error_password']     = 'API Password Required!';
 $_['error_signature']    = 'API Signature Required!';

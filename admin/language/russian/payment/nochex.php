@@ -4,7 +4,7 @@ $_['heading_title']      = 'NOCHEX';
 
 // Text
 $_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified NOCHEX account details!';
+// $_['text_success']       = 'Success: You have modified NOCHEX account details!';
 $_['text_nochex']	     = '<a href="https://secure.nochex.com/apply/merchant_info.aspx?partner_id=172198798" target="_blank"><img src="view/image/payment/nochex.png" alt="NOCHEX" title="NOCHEX" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_seller']        = 'Seller / Personal Account';
 $_['text_merchant']      = 'Merchant Account';
@@ -25,6 +25,6 @@ $_['entry_sort_order']   = 'Sort Order';
 $_['help_total']         = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
+// $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_email']        = 'Не заполнено поле E-Mail!';
 $_['error_merchant']     = 'Требуется Merchant ID!';

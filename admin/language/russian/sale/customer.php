@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Покупатели';
 
 // Text
-$_['text_success']          = 'Вы изменили данные о покупателях!';
+// $_['text_success']          = 'Вы изменили данные о покупателях!';
 $_['text_default']          = 'По умолчанию';
 $_['text_balance']          = 'Баланс:';
 $_['text_add_ban_ip']       = 'Добавить в  Blacklist';
@@ -40,13 +40,13 @@ $_['entry_company']         = 'Компания';
 $_['entry_address_1']       = 'Адрес 1';
 $_['entry_address_2']       = 'Адрес 2';
 $_['entry_city']            = 'Город';
-$_['entry_postcode']        = 'Индекс:';
-$_['entry_country']         = 'Страна:';
-$_['entry_zone']            = 'Регион / Область:';
-$_['entry_default']         = 'Адрес по умолчанию:';
-$_['entry_comment']         = 'Комментарий:';
-$_['entry_description']     = 'Описание:';
-$_['entry_amount']          = 'Сумма:';
+$_['entry_postcode']        = 'Индекс';
+$_['entry_country']         = 'Страна';
+$_['entry_zone']            = 'Регион / Область';
+$_['entry_default']         = 'Адрес по умолчанию';
+$_['entry_comment']         = 'Комментарий';
+$_['entry_description']     = 'Описание';
+$_['entry_amount']          = 'Сумма';
 $_['entry_points']          = 'Баллы';
 $_['entry_name']            = 'Имя покупателя';
 $_['entry_approved']        = 'Одобрен';
@@ -59,7 +59,7 @@ $_['help_points']           = 'Используйте минус для умен
 
 // Error
 $_['error_warning']         = 'Внимательно проверьте форму на ошибки!';
-$_['error_permission']      = 'У Вас нет прав для изменения покупателей!';
+// $_['error_permission']      = 'У Вас нет прав для изменения покупателей!';
 $_['error_exists']          = 'E-Mail адрес уже зарегистрирован!';
 $_['error_firstname']       = 'Имя должно быть от 1 до 32 символов!';
 $_['error_lastname']        = 'Фамилия должна быть от 1 до 32 символов!';

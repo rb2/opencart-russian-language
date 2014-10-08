@@ -18,7 +18,7 @@ $_['column_tax']        = 'Налог';
 $_['column_total']      = 'Итого';
 
 // Entry
-$_['entry_date_start']  = 'Дата начала:';
-$_['entry_date_end']    = 'Дата окончания:';
-$_['entry_group']       = 'Сортировать по:';
-$_['entry_status']      = 'Статус заказа:';
+$_['entry_date_start']  = 'Дата начала';
+$_['entry_date_end']    = 'Дата окончания';
+$_['entry_group']       = 'Сортировать по';
+$_['entry_status']      = 'Статус заказа';
