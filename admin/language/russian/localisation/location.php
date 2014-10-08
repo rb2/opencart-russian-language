@@ -1,35 +1,38 @@
 <?php
 // Heading
-$_['heading_title']    = 'Store Locations';
+$_['heading_title']    = 'Местоположение магазинов';
 
 // Text
 // $_['text_success']     = 'Success: You have modified store locations!';
-$_['text_default']     = 'Default';
-$_['text_time']        = 'Opening Times';
-$_['text_geocode']     = 'Geocode was not successful for the following reason:';
+$_['text_list']        = 'Список местоположений магазинов';
+$_['text_add']         = 'Добавить местоположение магазина';
+$_['text_edit']        = 'Изменить местоположение магазина';
+$_['text_default']     = 'По умолчанию';
+$_['text_time']        = 'Время работы';
+$_['text_geocode']     = 'Геокоординаты не установлены по следующей причине:';
 
 // Column
-$_['column_name']      = 'Store Name';
-$_['column_address']   = 'Address';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Наименование магазина';
+$_['column_address']   = 'Адрес';
+$_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_name']       = 'Store Name';
-$_['entry_address']    = 'Address';
-$_['entry_geocode']    = 'Geocode';
-$_['entry_telephone']  = 'Telephone';
-$_['entry_fax']        = 'Fax';
-$_['entry_image']      = 'Image';
-$_['entry_open']       = 'Opening Times';
-$_['entry_comment']    = 'Comment';
+$_['entry_name']       = 'Наименование магазина';
+$_['entry_address']    = 'Адрес';
+$_['entry_geocode']    = 'Геокоординаты';
+$_['entry_telephone']  = 'Телефон';
+$_['entry_fax']        = 'Факс';
+$_['entry_image']      = 'Изображение';
+$_['entry_open']       = 'Время работыs';
+$_['entry_comment']    = 'Комментарии';
 
 // Help
-$_['help_geocode']     = 'Please enter your store location geocode manually.';
-$_['help_open']        = 'Fill in your stores opening times.';
-$_['help_comment']     = 'This field is for any special notes you would like to tell the customer i.e. Store does not accept cheques.';
+$_['help_geocode']     = 'Пожалуйста, введите геокоординаты вашего магазина вручную.';
+$_['help_open']        = 'Заполните время работы вашего магазина.';
+$_['help_comment']     = 'Это поле - для специальных сообщений, например, вы хотите указать, что магазин работает только по предоплате.';
 
 // Error
 // $_['error_permission'] = 'Warning: You do not have permission to modify store locations!';
-$_['error_name']       = 'Store name must be at least 1 character!';
-$_['error_address']    = 'Address must be between 3 and 128 characters!';
-$_['error_telephone']  = 'Telephone must be between 3 and 32 characters!';
+$_['error_name']       = 'Название магазина должно содержать хотя бы 1 символ!';
+$_['error_address']    = 'Адрес должен иметь длину от 3 до 128 символов!';
+$_['error_telephone']  = 'Телефон должен иметь от 3 до 32 символов!';
