@@ -5,6 +5,7 @@ $_['heading_title']    = 'Google Base';
 // Text
 $_['text_feed']        = 'Каналы продвижения';
 // $_['text_success']     = 'Настройки модуля обновлены!';
+$_['text_list']        = 'Layout List';
 
 // Entry
 $_['entry_status']     = 'Статус';
