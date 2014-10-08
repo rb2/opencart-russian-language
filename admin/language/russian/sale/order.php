@@ -3,7 +3,7 @@
 $_['heading_title']                           = 'Заказы';
 
 // Text
-$_['text_success']                            = 'Заказ обновлен!';
+// $_['text_success']                            = 'Заказ обновлен!';
 $_['text_refresh']                            = 'Success: You have refreshed the order totals!';
 $_['text_order_detail']                       = 'Order Details';
 $_['text_order_id']                           = '№ заказа:';
@@ -232,7 +232,7 @@ $_['help_error']                              = 'Возвращает строк
 
 // Error
 $_['error_warning']                           = 'Внимательно проверьте форму на наличие ошибок!';
-$_['error_permission']                        = 'У Вас нет прав для изменения заказов!';
+// $_['error_permission']                        = 'У Вас нет прав для изменения заказов!';
 $_['error_upload']                            = 'Укажите файл для загрузки!';
 $_['error_filename']                          = 'Имя файла должно быть от 3 до 128 символов!';
 $_['error_filetype']                          = 'Ошибка типа файла (не входит в число разрешенных)!';

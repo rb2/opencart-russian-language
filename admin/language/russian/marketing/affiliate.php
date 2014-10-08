@@ -3,7 +3,7 @@
 $_['heading_title']             = 'Affiliate';
 
 // Text
-$_['text_success']              = 'Success: You have modified affiliates!';
+// $_['text_success']              = 'Success: You have modified affiliates!';
 $_['text_approved']             = 'You have approved %s accounts!';
 $_['text_balance']              = 'Balance';
 $_['text_cheque']               = 'Cheque';
@@ -61,7 +61,7 @@ $_['help_code']                = 'The tracking code that will be used to track r
 $_['help_commission']          = 'Percentage the affiliate recieves on each order.';
 
 // Error
-$_['error_permission']          = 'Warning: You do not have permission to modify affiliates!';
+// $_['error_permission']          = 'Warning: You do not have permission to modify affiliates!';
 $_['error_exists']              = 'Warning: E-Mail Address is already registered!';
 $_['error_firstname']           = 'First Name must be between 1 and 32 characters!';
 $_['error_lastname']            = 'Last Name must be between 1 and 32 characters!';

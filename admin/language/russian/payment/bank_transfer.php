@@ -4,7 +4,7 @@ $_['heading_title']      = 'Банковский перевод';
 
 // Text
 $_['text_payment']       = 'Оплата';
-$_['text_success']       = 'Настройки модуля обновлены!';
+// $_['text_success']       = 'Настройки модуля обновлены!';
 
 // Entry
 $_['entry_bank']         = 'Инструкция по переводу:';
@@ -18,5 +18,5 @@ $_['entry_sort_order']   = 'Порядок сортировки:';
 $_['help_total']         = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
+// $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_bank']         = 'Необходима инструкция по переводу!';

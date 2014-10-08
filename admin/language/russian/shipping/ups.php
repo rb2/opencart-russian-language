@@ -4,7 +4,7 @@ $_['heading_title']                = 'UPS';
 
 // Text
 $_['text_shipping']                = 'Shipping';
-$_['text_success']                 = 'Success: You have modified UPS shipping!';
+// $_['text_success']                 = 'Success: You have modified UPS shipping!';
 $_['text_regular_daily_pickup']    = 'Regular Daily Pickup';
 $_['text_daily_pickup']            = 'Daily Pickup';
 $_['text_customer_counter']        = 'Customer Counter';
@@ -105,7 +105,7 @@ $_['help_dimension']			   = 'This is assumed to be your average packing box size
 $_['help_debug']      			   = 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']             = 'Warning: You do not have permission to modify UPS (US) shipping!';
+// $_['error_permission']             = 'Warning: You do not have permission to modify UPS (US) shipping!';
 $_['error_key']                    = 'Access Key Required!';
 $_['error_username']               = 'Username Required!';
 $_['error_password']               = 'Password Required!';

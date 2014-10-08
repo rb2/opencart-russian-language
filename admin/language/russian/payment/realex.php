@@ -12,7 +12,7 @@ $_['tab_advanced'] = 'Advanced';
 
 // Text
 $_['text_payment'] = 'Payment';
-$_['text_success'] = 'Success: You have modified Realex account details!';
+// $_['text_success'] = 'Success: You have modified Realex account details!';
 $_['text_notification_url'] = 'Notification URL';
 $_['text_live'] = 'Live';
 $_['text_demo'] = 'Demo';

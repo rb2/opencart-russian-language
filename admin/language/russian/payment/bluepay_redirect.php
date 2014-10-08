@@ -4,7 +4,7 @@ $_['heading_title']      = 'BluePay Redirect (Requires SSL)';
 
 // Text 
 $_['text_payment']       = 'Sale'; 
-$_['text_success']       = 'Success: You have modified BluePay Redirect account details!';
+// $_['text_success']       = 'Success: You have modified BluePay Redirect account details!';
 $_['text_bluepay_redirect']       = '<a href="http://www.bluepay.com/preferred-partner/opencart" target="_blank"><img src="view/image/payment/bluepay.jpg" alt="BluePay Redirect" title="BluePay Redirect" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim']           = 'Simulator';
 $_['text_test']          = 'Test';
@@ -37,7 +37,7 @@ $_['help_cron_job_token'] = "Make this long and hard to guess";
 $_['help_cron_job_url'] = "Set a cron job to call this URL";
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment BluePay!';
+// $_['error_permission']   = 'Warning: You do not have permission to modify payment BluePay!';
 $_['error_account_id']   = 'Account ID Required!';
 $_['error_secret_key']   = 'Secret Key Required!';
 

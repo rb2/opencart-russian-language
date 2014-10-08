@@ -7,7 +7,7 @@ $_['heading_title']      	= 'Authorize.Net (SIM)';
 
 // Text
 $_['text_payment']       	= 'Payment';
-$_['text_success']       	= 'Success: You have modified Authorize.Net (SIM) account details!';
+// $_['text_success']       	= 'Success: You have modified Authorize.Net (SIM) account details!';
 
 // Entry
 $_['entry_merchant']     	= 'Merchant ID';
@@ -27,6 +27,6 @@ $_['help_md5']           	= 'The MD5 Hash feature enables you to authenticate th
 $_['help_total']         	= 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']   	= 'Warning: You do not have permission to modify payment Authorize.Net (SIM)!';
+// $_['error_permission']   	= 'Warning: You do not have permission to modify payment Authorize.Net (SIM)!';
 $_['error_merchant']     	= 'Merchant ID Required!';
 $_['error_key']          	= 'Transaction Key Required!';

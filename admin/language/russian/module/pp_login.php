@@ -4,7 +4,7 @@ $_['heading_title']         = 'Log In with PayPal';
 
 //Text
 $_['text_module']           = 'Modules';
-$_['text_success']          = 'Success: You have modified module Log In with PayPal!';
+// $_['text_success']          = 'Success: You have modified module Log In with PayPal!';
 $_['text_content_top']      = 'Content Top';
 $_['text_content_bottom']   = 'Content Bottom';
 $_['text_column_left']      = 'Column Left';
@@ -37,6 +37,6 @@ $_['help_debug_logging']    = 'Enabling this will allow data to be added to your
 $_['help_return_url']       = 'This needs to be added in the PayPal app configuration under app redirect URLs.';
 
 //Error
-$_['error_permission']      = 'Warning: You do not have permission to modify module Log In with PayPal!';
+// $_['error_permission']      = 'Warning: You do not have permission to modify module Log In with PayPal!';
 $_['error_client_id']       = 'Client ID required!';
 $_['error_secret']          = 'Secret required!';

@@ -7,7 +7,7 @@ $_['heading_title']      = 'LIQPAY';
 
 // Text
 $_['text_payment']       = 'Оплата';
-$_['text_success']       = 'Настройки модуля обновлены!';
+// $_['text_success']       = 'Настройки модуля обновлены!';
 $_['text_pay']           = 'LIQPAY';
 $_['text_card']          = 'Credit Card';
 
@@ -25,6 +25,6 @@ $_['entry_sort_order']   = 'Порядок сортировки:';
 $_['help_total']         = 'Минимальная сумма заказа. Ниже этой суммы метод будет недоступен.';
 
 // Error
-$_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
+// $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_merchant']     = 'Неверный ID магазина (Merchant ID)!';
 $_['error_signature']    = 'Отсутствует сигнатура!';

@@ -4,7 +4,7 @@ $_['heading_title']    = 'Плата за обработку заказа';
 
 // Text
 $_['text_total']       = 'Общая сумма заказа';
-$_['text_success']     = 'Настройки модуля обновлены!';
+// $_['text_success']     = 'Настройки модуля обновлены!';
 
 // Entry
 $_['entry_total']      = 'Сумма заказа:';
@@ -17,4 +17,4 @@ $_['entry_sort_order'] = 'Порядок сортировки:';
 $_['help_total']       = 'The checkout total the order must reach before this order total becomes active.';
 
 // Error
-$_['error_permission'] = 'У Вас нет прав для управления этим модулем!';
+// $_['error_permission'] = 'У Вас нет прав для управления этим модулем!';

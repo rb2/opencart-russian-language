@@ -12,7 +12,7 @@ $_['column_actions'] = 'Actions';
 
 //Text
 $_['text_payment'] = 'Payment';
-$_['text_success'] = 'Success: You have modified PayPal Payflow Pro iFrame account details!';
+// $_['text_success'] = 'Success: You have modified PayPal Payflow Pro iFrame account details!';
 $_['text_pp_payflow_iframe'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Authorization';
 $_['text_sale'] = 'Sale';
@@ -90,7 +90,7 @@ $_['entry_return_url'] = 'Return URL:';
 $_['entry_post_url'] = 'Silent POST URL:';
 
 //Errors
-$_['error_permission'] = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
+// $_['error_permission'] = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
 $_['error_vendor'] = 'Vendor Required!';
 $_['error_user'] = 'User Required!';
 $_['error_password'] = 'Password Required!';

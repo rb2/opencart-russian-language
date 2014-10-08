@@ -11,7 +11,7 @@ $_['tab_payment'] = 'Payment settings';
 
 // Text
 $_['text_payment'] = 'Payment';
-$_['text_success'] = 'Success: You have modified Realex account details!';
+// $_['text_success'] = 'Success: You have modified Realex account details!';
 $_['text_yes'] = 'Yes';
 $_['text_no'] = 'No';
 $_['text_help_total'] = 'The checkout total the order must reach before this payment method becomes active';

@@ -4,7 +4,7 @@ $_['heading_title']                            = 'Fedex';
 
 // Text
 $_['text_shipping']      = 'Доставка';
-$_['text_success']       = 'Настройки модуля обновлены!';
+// $_['text_success']       = 'Настройки модуля обновлены!';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
 $_['text_fedex_2_day']                         = 'Fedex 2 Day';
@@ -66,7 +66,7 @@ $_['help_display_weight']                      = 'Do you want to display the shi
 $_['help_weight_class']                        = 'Set to kilograms or pounds.';
 
 // Error
-$_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
+// $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_key']                                = 'Key Required!';
 $_['error_password']                           = 'Password Required!';
 $_['error_account']                            = 'Account Required!';

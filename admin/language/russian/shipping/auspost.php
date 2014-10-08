@@ -4,7 +4,7 @@ $_['heading_title']      = 'Australia Post';
 
 // Text
 $_['text_shipping']      = 'Доставка';
-$_['text_success']       = 'Настройки модуля обновлены!';
+// $_['text_success']       = 'Настройки модуля обновлены!';
 
 // Entry
 $_['entry_postcode']     = 'Post Code';
@@ -22,5 +22,5 @@ $_['help_display_time']  = 'Do you want to display the shipping time? (e.g. Ship
 $_['help_weight_class']  = 'Set to grams.';
 
 // Error
-$_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
+// $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
 $_['error_postcode']     = 'Post Code должен состоять из 4 цифр!';
