@@ -3,8 +3,9 @@
 $_['heading_title']    = 'Бесплатная доставка';
 
 // Text
-$_['text_shipping']    = 'Бесплатная доставка';
+$_['text_shipping']    = 'Доставка';
 // $_['text_success']     = 'Настройки модуля обновлены!';
+$_['text_edit']        = 'Изменить настройки бесплатной доставки';
 
 // Entry
 $_['entry_total']      = 'Порог стоимости:<br /><span class="help">Минимальная сумма, необходимая для того, чтобы бесплатная доставка стала доступна.</span>';
@@ -13,7 +14,7 @@ $_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 // Help
-$_['help_total']       = 'Sub-Total amount needed before the free shipping module becomes available.';
+$_['help_total']       = 'Минимальная сумма, необходимая для того, чтобы бесплатная доставка стала доступна.';
 
 // Error
 // $_['error_permission'] = 'У Вас нет прав для управления этим модулем!';

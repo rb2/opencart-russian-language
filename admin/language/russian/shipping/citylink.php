@@ -5,6 +5,7 @@ $_['heading_title']      = 'Доставка по городу Citylink';
 // Text
 $_['text_shipping']      = 'Доставка';
 // $_['text_success']       = 'Настройки модуля обновлены!';
+$_['text_edit']        = 'Изменить настройки доставки Citylink';
 
 // Entry
 $_['entry_rate']         = 'Тарифы доставки';

@@ -5,6 +5,7 @@ $_['heading_title']                            = 'Fedex';
 // Text
 $_['text_shipping']      = 'Доставка';
 // $_['text_success']       = 'Настройки модуля обновлены!';
+$_['text_edit']                                = 'Изменить настройки Fedex';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
 $_['text_fedex_2_day']                         = 'Fedex 2 Day';
@@ -35,40 +36,40 @@ $_['text_fedex_envelope']                      = 'FedEx Envelope';
 $_['text_fedex_pak']                           = 'FedEx Pak';
 $_['text_fedex_box']                           = 'FedEx Box';
 $_['text_fedex_tube']                          = 'FedEx Tube';
-$_['text_fedex_10kg_box']                      = 'FedEx 10kg Box';
-$_['text_fedex_25kg_box']                      = 'FedEx 25kg Box';
-$_['text_your_packaging']                      = 'Your Packaging';
+$_['text_fedex_10kg_box']                      = 'FedEx 10kg коробка';
+$_['text_fedex_25kg_box']                      = 'FedEx 25kg коробка';
+$_['text_your_packaging']                      = 'Ваша упаковка';
 $_['text_list_rate']                           = 'List Rate';
 $_['text_account_rate']                        = 'Account Rate';
 
 // Enry
-$_['entry_key']                                = 'Key';
-$_['entry_password']                           = 'Password';
-$_['entry_account']                            = 'Account Number';
+$_['entry_key']                                = 'Ключ';
+$_['entry_password']                           = 'Пароль';
+$_['entry_account']                            = 'Номер счета';
 $_['entry_meter']                              = 'Meter Number';
-$_['entry_postcode']                           = 'Post Code';
-$_['entry_test']                               = 'Test Mode';
-$_['entry_service']                            = 'Services';
+$_['entry_postcode']                           = 'Почтовый код';
+$_['entry_test']                               = 'Режим тестирования';
+$_['entry_service']                            = 'Услуги';
 $_['entry_dropoff_type']                       = 'Drop Off Type';
-$_['entry_packaging_type']                     = 'Packaging Type';
+$_['entry_packaging_type']                     = 'Тип упаковки';
 $_['entry_rate_type']                          = 'Rate Type';
-$_['entry_display_time']                       = 'Display Delivery Time';
-$_['entry_display_weight']                     = 'Display Delivery Weight';
-$_['entry_weight_class']                       = 'Weight Class';
-$_['entry_tax_class']    = 'Класс налогов';
-$_['entry_geo_zone']	 = 'Географическая зона';
-$_['entry_status']       = 'Статус';
-$_['entry_sort_order']	 = 'Порядок сортировки';
+$_['entry_display_time']                       = 'Показывать время доставки';
+$_['entry_display_weight']                     = 'Показывать вес доставки';
+$_['entry_weight_class']                       = 'Единицы веса';
+$_['entry_tax_class']                          = 'Класс налогов';
+$_['entry_geo_zone']                           = 'Географическая зона';
+$_['entry_status']                             = 'Статус';
+$_['entry_sort_order']                         = 'Порядок сортировки';
 
 // Help
-$_['help_display_time']                        = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
-$_['help_display_weight']                      = 'Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 Kg\'s)';
-$_['help_weight_class']                        = 'Set to kilograms or pounds.';
+$_['help_display_time']                        = 'Хотите показывать ожидаемое время доставки, например, "Доставка в пределах от 3 до 5 дней"?';
+$_['help_display_weight']                      = 'Хотите показывать вес доставки, например, "Вес доставки: 2.7674 Кг"';
+$_['help_weight_class']                        = 'Установите килограммы или фунты.';
 
 // Error
 // $_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
-$_['error_key']                                = 'Key Required!';
-$_['error_password']                           = 'Password Required!';
-$_['error_account']                            = 'Account Required!';
-$_['error_meter']                              = 'Meter Required!';
-$_['error_postcode']                           = 'Post Code Required!';
+$_['error_key']                                = 'Необходим ключ!';
+$_['error_password']                           = 'Необходим пароль!';
+$_['error_account']                            = 'Необходим счет!';
+$_['error_meter']                              = 'Необходим Meter!';
+$_['error_postcode']                           = 'Необходим почтовый код!';
