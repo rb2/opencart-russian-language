@@ -3,6 +3,7 @@
 $_['heading_title']         = 'Отчет по кредиту покупателей';
 
 // Column
+$_['text_list']             = 'Список кредитов покупателей';
 $_['column_customer']       = 'Имя покупателя';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Группа покупателя';

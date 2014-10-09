@@ -3,6 +3,7 @@
 $_['heading_title']     = 'Отчет по налогам';
 
 // Text
+$_['text_list']         = 'Список налогов';
 $_['text_year']         = 'Годы';
 $_['text_month']        = 'Месяцы';
 $_['text_week']         = 'Недели';

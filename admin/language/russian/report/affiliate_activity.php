@@ -1,23 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Affiliate Activity Report';
+$_['heading_title']     = 'Отчет о действиях партнеров';
 
 // Text
-$_['text_edit']         = '<a href="affiliate_id=%d">%s</a> updated their account details.';
-$_['text_fogotten']     = '<a href="affiliate_id=%d">%s</a> requested a new password.';
-$_['text_login']        = '<a href="affiliate_id=%d">%s</a> logged in.';
-$_['text_password']     = '<a href="affiliate_id=%d">%s</a> updated their account password.';
-$_['text_payment']      = '<a href="affiliate_id=%d">%s</a> updated their payment details.';
-$_['text_register']     = '<a href="affiliate_id=%d">%s</a> registered for a new account.';
+$_['text_list']         = 'Список действий партнеров';
+$_['text_edit']         = '<a href="affiliate_id=%d">%s</a> обновил свою учетную запись';
+$_['text_forgotten']    = '<a href="affiliate_id=%d">%s</a> запросил новый пароль.';
+$_['text_login']        = '<a href="affiliate_id=%d">%s</a> вошел в систему.';
+$_['text_password']     = '<a href="affiliate_id=%d">%s</a> обновил пароль учетной записи.';
+$_['text_payment']      = '<a href="affiliate_id=%d">%s</a> обновил реквизиты платежей.';
+$_['text_register']     = '<a href="affiliate_id=%d">%s</a> зарегистрировался с новой учетной записью.';
 
 // Column
-$_['column_affiliate']  = 'Affiliate';
-$_['column_comment']    = 'Comment';
+$_['column_affiliate']  = 'Партнер';
+$_['column_comment']    = 'Комментарии';
 $_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Date Added';
+$_['column_date_added'] = 'Дата добавления';
 
 // Entry
-$_['entry_affiliate']   = 'Affiliate';
+$_['entry_affiliate']   = 'Лартнер';
 $_['entry_ip']          = 'IP';
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
+$_['entry_date_start']  = 'Дата начала';
+$_['entry_date_end']    = 'Дата окончания';
