@@ -2,6 +2,9 @@
 // Heading
 $_['heading_title']    = 'Отчет по купонам';
 
+// Text
+$_['text_list']        = 'Список купонов';
+
 // Column
 $_['column_name']      = 'Имя купона';
 $_['column_code']      = 'Код';

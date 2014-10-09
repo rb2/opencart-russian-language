@@ -3,6 +3,7 @@
 $_['heading_title']     = 'Отчет по продажам';
 
 // Text
+$_['text_list']         = 'Список продаж';
 $_['text_year']         = 'Годы';
 $_['text_month']        = 'Месяцы';
 $_['text_week']         = 'Недели';
