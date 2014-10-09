@@ -1,9 +1,12 @@
 <?php
 // Heading
-$_['heading_title']          = 'Регионы';
+$_['heading_title']          = 'Регионы/области';
 
 // Text
 // $_['text_success']           = 'Cписок регионов обновлен!';
+$_['text_list']              = 'Список регионов';
+$_['text_add']               = 'Добавить регион';
+$_['text_edit']              = 'Изменить регион';
 
 // Column
 $_['column_name']            = 'Название региона';

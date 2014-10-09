@@ -5,6 +5,7 @@ $_['heading_title']      = 'PayPoint';
 // Text
 $_['text_payment']       = 'Оплата';
 // $_['text_success']       = 'Настройки модуля обновлены!';
+$_['text_edit']                     = 'Изменить настройки модуля "PayPoint"';
 $_['text_paypoint']      = '<a href="https://www.paypoint.net/partners/opencart" target="_blank"><img src="view/image/payment/paypoint.png" alt="PayPoint" title="PayPoint" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_live']          = 'Режим реальных платежей';
 // $_['text_successful']    = 'Всегда УСПЕШНО';

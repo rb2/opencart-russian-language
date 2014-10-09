@@ -1,42 +1,35 @@
 <?php
 // Heading
-$_['heading_title']         = 'Log In with PayPal';
+$_['heading_title']        = 'Вход в PayPal';
 
 //Text
-$_['text_module']           = 'Modules';
-// $_['text_success']          = 'Success: You have modified module Log In with PayPal!';
-$_['text_content_top']      = 'Content Top';
-$_['text_content_bottom']   = 'Content Bottom';
-$_['text_column_left']      = 'Column Left';
-$_['text_column_right']     = 'Column Right';
-$_['text_grey_button']      = 'Grey';
-$_['text_blue_button']      = 'Blue (Recommended)';
-$_['text_return_url']       = 'Return URL';
+$_['text_module']          = 'Modules';
+//$_['text_success']         = 'Success: You have modified Log In with PayPal module!';
+$_['text_edit']            = 'Изменить настройки модуля "Вход в PayPal"';
+$_['text_button_grey']     = 'Серый';
+$_['text_button_blue']     = 'Синий (Рекомендованный)';
 
 //Entry
-$_['entry_client_id']       = 'Client ID';
-$_['entry_secret']          = 'Secret';
-$_['entry_sandbox']         = 'Sandbox Mode';
-$_['entry_logging']         = 'Debug Logging';
-$_['entry_customer_group']  = 'Customer Group';
-$_['entry_button']          = 'Button Colour';
-$_['entry_seamless']        = 'Allow "Seamless Checkout"';
-$_['entry_status']          = 'Status';
-$_['entry_layout']          = 'Схема';
-$_['entry_position']        = 'Position';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
-$_['entry_locale']          = 'Locale - %s';
+$_['entry_client_id']      = 'ID клиента';
+$_['entry_secret']         = 'Секретный код';
+$_['entry_sandbox']        = 'Режим песочницы';
+$_['entry_debug']          = 'Записывать отладочные сообщения';
+$_['entry_customer_group'] = 'Группа покупателей';
+$_['entry_button']         = 'Цвет кнопки';
+$_['entry_seamless']       = 'Разрешить "Seamless Checkout"';
+$_['entry_locale']         = 'Локаль';
+$_['entry_return_url']     = 'URL возврата на сайт';
+$_['entry_status']         = 'Статус';
 
 //Help
-$_['help_sandbox']          = 'Use sandbox (testing) environment?';
-$_['help_customer_group']   = 'For new customers, which Customer Group should they get created as?';
-$_['help_seamless']         = 'Allows auto-login when customers choose PayPal Express Checkout. To use this, the option must be enabled in your Log in With PayPal account. You must also use the same account as the one used in Express Checkout.';
-$_['help_locale']           = 'This is the PayPal locale setting for your stores %s language';
-$_['help_debug_logging']    = 'Enabling this will allow data to be added to your error log to help debug any problems.';
-$_['help_return_url']       = 'This needs to be added in the PayPal app configuration under app redirect URLs.';
+$_['help_sandbox']         = 'Использовать тестовый режим, иммитирующий транзакции без реального списания денег со счета клиента (песочницу)?';
+$_['help_customer_group']  = 'Для новых покупателей, в какой группе покупателей они будут созданы?';
+$_['help_debug_logging']   = 'Этот режим позволяет записывать данные в ваш error log для облегчения отладки.';
+$_['help_seamless']        = 'Обеспечивает авто-логин, когда пользователь выбирает PayPal Express Checkout. Для этого нужно разрешить опцию логина с помощью PayPal. Вы также должны использовать тот же аккаунт, что и в Express Checkout.';
+$_['help_locale']          = 'Позволяет установить язык PayPal таким же, как и в магазине';
+$_['help_return_url']      = 'PayPal  использует этот URL для возврата в магазин.';
 
 //Error
-// $_['error_permission']      = 'Warning: You do not have permission to modify module Log In with PayPal!';
-$_['error_client_id']       = 'Client ID required!';
-$_['error_secret']          = 'Secret required!';
+$_['error_permission']     = 'Warning: You do not have permission to modify Log In with PayPal module!';
+$_['error_client_id']      = 'Необходимо задать ID Клиента!';
+$_['error_secret']         = 'Необходимо задать секретный код!';

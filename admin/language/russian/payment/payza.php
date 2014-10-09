@@ -5,6 +5,7 @@ $_['heading_title']      = 'Payza';
 // Text
 $_['text_payment']       = 'Оплата';
 // $_['text_success']       = 'Настройки модуля обновлены!';
+$_['text_edit']                     = 'Изменить настройки модуля "Payza"';
 
 // Entry
 $_['entry_merchant']     = 'Merchant ID';

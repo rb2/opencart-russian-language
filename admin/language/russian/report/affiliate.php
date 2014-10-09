@@ -2,6 +2,9 @@
 // Heading
 $_['heading_title']     = 'Отчёт по партёрским комиисионным отчислениям';
 
+// Text
+$_['text_list']         = 'Список партнерских комиссионных';
+
 // Column
 $_['column_affiliate']  = 'Имя партнёра';
 $_['column_email']      = 'E-Mail';

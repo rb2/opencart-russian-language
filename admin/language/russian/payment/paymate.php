@@ -5,6 +5,8 @@ $_['heading_title']      = 'Paymate';
 // Text
 $_['text_payment']       = 'Оплата';
 // $_['text_success']       = 'Настройки модуля обновлены!';
+$_['text_edit']                     = 'Изменить настройки модуля "Paymate"';
+$_['text_paymate']					= '<img src="view/image/payment/paymate.png" alt="Paymate" title="Paymate" style="border: 1px solid #EEEEEE;" />';
 
 // Entry
 $_['entry_username']     = 'Имя пользователя Paymate';
