@@ -1,48 +1,51 @@
 <?php
 // Heading
-$_['heading_title'] 							= 'Recurring Profiles';
+$_['heading_title']                        = 'Регулярные платежи';
 
 // Text
-// $_['text_success'] 								= 'Success: You have modified Recurring Profiles!';
-$_['text_payment_profiles'] 					= 'Recurring Profiles';
-$_['text_status_active'] = 'Active';
-$_['text_status_inactive'] = 'Inactive';
-$_['text_status_cancelled'] = 'Cancelled';
-$_['text_status_suspended'] = 'Suspended';
-$_['text_status_expired'] = 'Expired';
-$_['text_status_pending'] = 'Pending';
-$_['text_transactions'] = 'Transactions';
-$_['text_cancel_confirm'] = 'Profile\'s cancellation cannot be undone! Are you sure want to do this?';
-$_['text_transaction_created'] 					= 'Date added';
-$_['text_transaction_payment'] = 'Payment';
-$_['text_transaction_outstanding_payment'] = 'Outstanding payment';
-$_['text_transaction_skipped'] = 'Payment skipped';
-$_['text_transaction_failed'] = 'Payment failed';
-$_['text_transaction_cancelled'] = 'Cancelled';
-$_['text_transaction_suspended'] = 'Suspended';
-$_['text_transaction_suspended_failed'] = 'Suspended from failed payment';
-$_['text_transaction_outstanding_failed'] = 'Outstanding payment failed';
-$_['text_transaction_expired'] = 'Expired';
+//$_['text_success']                         = 'Success: You have modified recurring profiles!';
+$_['text_list']                            = 'Список регулярных платежей';
+$_['text_add']                             = 'Добавить регулярный платеж';
+$_['text_edit']                            = 'Изменить регулярный платеж';
+$_['text_payment_profiles']                = 'Регулярные платежи';
+$_['text_status_active']                   = 'Активен';
+$_['text_status_inactive']                 = 'Неактивен';
+$_['text_status_cancelled']                = 'Отменен';
+$_['text_status_suspended']                = 'Приостановлен';
+$_['text_status_expired']                  = 'Просрочен';
+$_['text_status_pending']                  = 'В ожидании';
+$_['text_transactions']                    = 'Транзакции';
+$_['text_cancel_confirm']                  = 'Отмена платежа не может быть восстановлена! Выполнить действие?';
+$_['text_transaction_date_added']          = 'Дата добавления';
+$_['text_transaction_payment'] 			   = 'Платеж';
+$_['text_transaction_outstanding_payment'] = 'Отложенный платеж (outstanding)';
+$_['text_transaction_skipped']             = 'Платеж пропущен';
+$_['text_transaction_failed']              = 'Неудавшийся платеж';
+$_['text_transaction_cancelled']           = 'Отменен';
+$_['text_transaction_suspended']           = 'Приостановлен';
+$_['text_transaction_suspended_failed']    = 'Приостановлен из-за неудавшегося платежа';
+$_['text_transaction_outstanding_failed']  = 'Неудача проведения отложенного платежа';
+$_['text_transaction_expired']             = 'Просрочен';
 
 // Entry
-$_['entry_cancel_payment'] = 'Cancel Payment';
-$_['entry_order_recurring'] = 'ID';
-$_['entry_order_id'] = 'Order ID';
-$_['entry_payment_reference'] = 'Payment Reference';
-$_['entry_customer'] = 'Customer';
-$_['entry_date_created'] 						= 'Date Added';
-$_['entry_status'] = 'Status';
-$_['entry_type'] = 'Type';
-$_['entry_action'] = 'Action';
-$_['entry_email'] = 'Email';
-$_['entry_profile_description'] = 'Profile\'s description';
-$_['entry_product'] = 'Product';
-$_['entry_quantity'] = 'Quantity';
-$_['entry_amount'] = 'Amount';
-$_['entry_profile'] = 'Profile';
-$_['entry_payment_type'] = 'Payment method';
+$_['entry_cancel_payment']                 = 'Отменить платеж';
+$_['entry_order_recurring']                = 'ID';
+$_['entry_order_id']                       = 'ID заказа';
+$_['entry_reference']                      = 'Ссылка на платеж';
+$_['entry_customer']                       = 'покупатель';
+$_['entry_date_added']                     = 'Дата добавления';
+$_['entry_status']                         = 'Статус';
+$_['entry_type']                           = 'Тип';
+$_['entry_action']                         = 'Действие';
+$_['entry_email']                          = 'Email';
+$_['entry_description']                    = 'Описание регулярного платежа';
+$_['entry_product']                        = 'Товар';
+$_['entry_quantity']                       = 'Количество';
+$_['entry_amount']                         = 'Сумма';
+$_['entry_recurring']                      = 'Регулярный платеж';
+$_['entry_payment_method']                 = 'Метод платежа';
 
 // Error / Success
-$_['error_not_cancelled'] = 'Error: %s';
-$_['error_not_found'] = 'Could not cancel profile';
-$_['success_cancelled'] = 'Recurring payment has been cancelled';
+$_['error_not_cancelled']                  = 'Ошибка: %s';
+$_['error_not_found']                      = 'Невозможно отменить регулярный платеж';
+$_['text_cancelled']                    = 'Регулярный платеж отменен';

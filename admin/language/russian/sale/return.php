@@ -3,12 +3,15 @@
 $_['heading_title']       = 'Возвраты товаров';
 
 // Text
+// $_['text_success']        = 'Изменения в возвраты внесены успешно!';
+$_['text_list']           = 'Список возвратов';
+$_['text_add']            = 'Добавить возврат товара';
+$_['text_edit']           = 'Изменить  возврат товара';
 $_['text_opened']         = 'Упаковка открыта';
 $_['text_unopened']       = 'Не распакован';
-// $_['text_success']        = 'Изменения в возвраты внесены успешно!';
-$_['text_order']          = 'Order Information';
+$_['text_order']          = 'Информация о заказе';
 $_['text_product']        = 'Товар:';
-$_['text_history']        = 'Add Return History';
+$_['text_history']        = 'Добавить историю возврата';
 
 // Column
 $_['column_return_id']     = '№ возврата';
@@ -41,8 +44,8 @@ $_['entry_return_action'] = 'Действие по возврату';
 $_['entry_return_status'] = 'Статус возврата';
 $_['entry_notify']        = 'Покупатель уведомлён';
 $_['entry_return_id']     = 'Return ID';
-$_['entry_date_added']    = 'Date Added';
-$_['entry_date_modified'] = 'Date Modified';
+$_['entry_date_added']    = 'Дата добавления';
+$_['entry_date_modified'] = 'Дата изменения';
 
 // Help
 $_['help_product']        = '(Работает автодополнение)';

@@ -3,9 +3,10 @@
 $_['heading_title']                           = 'Заказы';
 
 // Text
-// $_['text_success']                            = 'Заказ обновлен!';
-$_['text_refresh']                            = 'Success: You have refreshed the order totals!';
-$_['text_order_detail']                       = 'Order Details';
+$_['text_list']                               = 'Список заказов';
+$_['text_add']                                = 'Добавить заказ';
+$_['text_edit']                               = 'Изменить заказ';
+$_['text_order_detail']                       = 'Подробности заказа';
 $_['text_order_id']                           = '№ заказа:';
 $_['text_invoice_no']                         = '№ счета:';
 $_['text_invoice_date']                       = 'Дата выписки счета:';
@@ -26,9 +27,9 @@ $_['text_comment']                            = 'Комментарий:';
 $_['text_affiliate']                          = 'Партнер:';
 $_['text_commission']                         = 'Комиссия:';
 $_['text_ip']                                 = 'IP адрес:';
-$_['text_forwarded_ip']                       = 'Forwarded IP:';
+$_['text_forwarded_ip']                       = 'Переадресованный IP:';
 $_['text_user_agent']                         = 'Броузер (User Agent):';
-$_['text_accept_language']                    = 'Accept Language:';
+$_['text_accept_language']                    = 'Приемлемый язык:';
 $_['text_date_added']                         = 'Дата добавления:';
 $_['text_date_modified']                      = 'Дата изменения:';
 $_['text_firstname']                          = 'Имя, Отчество:';
@@ -42,7 +43,7 @@ $_['text_zone']                               = 'Область:';
 $_['text_zone_code']                          = 'Код области:';
 $_['text_country']                            = 'Страна:';
 $_['text_invoice']                            = 'Счет';
-$_['text_from']                               = 'Shipping From';
+$_['text_from']                               = 'Отправитель';
 $_['text_to']                                 = 'Адрес оплаты';
 $_['text_ship_to']                            = 'Адрес доставки';
 $_['text_missing']                            = 'Потерянные заказы';
@@ -50,8 +51,8 @@ $_['text_default']                            = 'Значение по умол�
 $_['text_product']                            = 'Добавить товар(ы)';
 $_['text_voucher']                            = 'Добавить подарочный сертификат';
 $_['text_order']                              = 'Детали заказа';
-$_['text_shipping']                           = 'Shipping';
-$_['text_contact']                            = 'Contact';
+$_['text_shipping']                           = 'Доставка';
+$_['text_contact']                            = 'Контакты';
 $_['text_sku']                                = 'SKU:';
 $_['text_upc']                                = 'UPC:';
 $_['text_ean']                                = 'EAN:';
@@ -63,7 +64,7 @@ $_['text_reward_added']                       = 'Бонусные баллы д�
 $_['text_reward_removed']                     = 'Бонусные баллы удалены!';
 $_['text_commission_added']                   = 'Комиссия добавлена!';
 $_['text_commission_removed']                 = 'Комиссия удалена!';
-$_['text_restock']                            = 'Success: Products have been restocked!';
+$_['text_restock']                            = 'Товар появился на складе!';
 $_['text_upload']                             = 'Ваш файл успешно загружен на сервер!';
 $_['text_country_match']                      = 'Совпадение страны';
 $_['text_country_code']                       = 'Код страны';
@@ -115,8 +116,8 @@ $_['text_risk_score']                         = 'Оценка риска (Risk S
 $_['text_queries_remaining']                  = 'Осталось запросов';
 $_['text_maxmind_id']                         = 'Maxmind ID';
 $_['text_error']                              = 'Ошибка';
-$_['text_picklist']                           = 'Dispatch note';
-$_['text_history']                            = 'Add Order History';
+$_['text_picklist']                           = 'Уведомление об отправке';
+$_['text_history']                            = 'Добавить историю заказа';
 
 // Column
 $_['column_order_id']                         = '№ заказа';
@@ -131,10 +132,10 @@ $_['column_quantity']                         = 'Количество';
 $_['column_price']                            = 'Цена за единицу';
 $_['column_comment']                          = 'Комментарий';
 $_['column_notify']                           = 'Покупатель уведомлен';
-$_['column_location']                         = 'Location';
-$_['column_reference']                        = 'Reference';
+$_['column_location']                         = 'Местоположение';
+$_['column_reference']                        = 'Ссылка';
 $_['column_action']                           = 'Действие';
-$_['column_weight']                           = 'Product weight';
+$_['column_weight']                           = 'Вес товара';
 
 // Entry
 $_['entry_store']                             = 'Магазин';
@@ -174,16 +175,16 @@ $_['entry_coupon']                            = 'Купон';
 $_['entry_voucher']                           = 'Подарочный сертификат';
 $_['entry_reward']                            = 'Бонусы';
 $_['entry_order_id']                          = 'Order ID';
-$_['entry_total']                             = 'Total';
-$_['entry_date_added']                        = 'Date Added';
-$_['entry_date_modified']                     = 'Date Modified';
+$_['entry_total']                             = 'Итого';
+$_['entry_date_added']                        = 'Дата добавления';
+$_['entry_date_modified']                     = 'Дата изменения';
 
 // Help
 $_['help_country_match']                      = 'Страна или IP-адрес совпадают со страной из адреса плательщика (несовпадение = высокий риск).';
-$_['help_country_code']                       = 'Country Code of the IP address.';
-$_['help_high_risk_country']                  = 'Whether IP address or billing address country is in Ghana, Nigeria, or Vietnam.';
-$_['help_distance']                           = 'Distance from IP address to Billing Location in kilometers (large distance = higher risk).';
-$_['help_ip_region']                          = 'Estimated State/Region of the IP address.';
+$_['help_country_code']                       = 'Код страны по IP адресу.';
+$_['help_high_risk_country']                  = 'Находится ли IP адрес или адрес платежа в Гане, Нигерии или Вьетнаме.';
+$_['help_distance']                           = 'Расстояние от IP адреса до местоположения плательщика в километрах (больше расстояние = выше риск).';
+$_['help_ip_region']                          = 'Присерный регион/область по IP адресу.';
 $_['help_ip_city']                            = 'Приблизительный город, определенный по IP-адресу.';
 $_['help_ip_latitude']                        = 'Примерная географическая широта IP-адреса покупателя.';
 $_['help_ip_longitude']                       = 'Примерная географическая долгота IP-адреса покупателя.';
@@ -233,8 +234,5 @@ $_['help_error']                              = 'Возвращает строк
 // Error
 $_['error_warning']                           = 'Внимательно проверьте форму на наличие ошибок!';
 // $_['error_permission']                        = 'У Вас нет прав для изменения заказов!';
-$_['error_upload']                            = 'Укажите файл для загрузки!';
-$_['error_filename']                          = 'Имя файла должно быть от 3 до 128 символов!';
-$_['error_filetype']                          = 'Ошибка типа файла (не входит в число разрешенных)!';
+$_['error_curl']                              = 'Ошибка CURL %s(%s)!';
 $_['error_action']                            = 'Невозможно завершить операцию!';
-$_['error_no_selection']                      = 'You did not select any orders!';
