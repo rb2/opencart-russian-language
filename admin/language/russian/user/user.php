@@ -4,6 +4,9 @@ $_['heading_title']     = 'Пользователи';
 
 // Text
 // $_['text_success']      = 'Список пользователей обновлен!';
+$_['text_list']         = 'Список пользователей';
+$_['text_add']          = 'Добавить пользователя';
+$_['text_edit']         = 'Изменить пользователя';
 
 // Column
 $_['column_username']   = 'Логин';
@@ -19,7 +22,7 @@ $_['entry_confirm']    = 'Подтверждение';
 $_['entry_firstname']  = 'Имя, Отчество';
 $_['entry_lastname']   = 'Фамилия';
 $_['entry_email']      = 'E-Mail';
-$_['entry_image']      	= 'Imag';
+$_['entry_image']      	= 'Изображение';
 $_['entry_status']     = 'Статус';
 
 // Error
