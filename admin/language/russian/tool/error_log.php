@@ -7,5 +7,5 @@ $_['heading_title'] = 'Журнал ошибок';
 $_['text_list']        = 'Список ошибок';
 
 // Error
-$_['error_warning']			= 'Ваш файл журтала ошибок %s - %s!';
+$_['error_warning']			= 'Ваш файл журнала ошибок %s - %s!';
 // $_['error_permission']	= 'Warning: You do not have permission to clear error log!';

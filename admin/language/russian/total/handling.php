@@ -5,6 +5,7 @@ $_['heading_title']    = 'Плата за обработку заказа';
 // Text
 $_['text_total']       = 'Общая сумма заказа';
 // $_['text_success']     = 'Настройки модуля обновлены!';
+$_['text_edit']        = 'Изменить плату за обработку заказов в итогах';
 
 // Entry
 $_['entry_total']      = 'Сумма заказа';
@@ -14,7 +15,7 @@ $_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 // Help
-$_['help_total']       = 'The checkout total the order must reach before this order total becomes active.';
+$_['help_total']       = 'Сумма заказа должна достичь указанную, чтобы плата за обработку вступила в силу.';
 
 // Error
 // $_['error_permission'] = 'У Вас нет прав для управления этим модулем!';

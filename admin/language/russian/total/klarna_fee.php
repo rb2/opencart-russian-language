@@ -5,6 +5,7 @@ $_['heading_title']    = 'Klarna Fee';
 // Text
 $_['text_total']       = 'Общая сумма заказа';
 // $_['text_success']     = 'Настройки модуля обновлены!';
+$_['text_edit']        = 'Изменить настройки Klarna Fee в итогах';
 $_['text_sweden']           = 'Швеция';
 $_['text_norway']           = 'Норвегия';
 $_['text_finland']          = 'Финляндия';
