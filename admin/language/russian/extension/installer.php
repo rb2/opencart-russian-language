@@ -18,7 +18,7 @@ $_['entry_overwrite']      = 'Файлы, которые будут переза
 $_['entry_progress']       = 'Ход исполнения';
 
 // Help
-$_['help_upload']          = 'Файл должен иметь расширение .ZIP или .XML файл.';
+$_['help_upload']          = 'Файл должен иметь расширение .ocmod.zip или .ocmod.xml';
 
 // Error
 // $_['error_permission']     = 'У вас нет прав для управления расширениям!';
