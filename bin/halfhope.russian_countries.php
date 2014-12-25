@@ -4200,8 +4200,12 @@ $db = new DB(DB_DRIVER, DB_HOSTNAME, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
 foreach ($setup_sql as $key => $value) {
   $db->query($value);
 }
-echo "<html><head><title>Русский языковой пакет успешно установлен</title></head><body><h1>Русский языковой пакет успешно установлен. Теперь необходимо очистить кэш OpenCart</h1>
-<h2>Смотрите также:</h2>
-<ul><li><a href=\"http://opencartforum.ru/files/file/1368-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D1%84%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D1%85-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/\">Менеджер фоновых изображений 2.1</a></li><li><a href=\"http://opencartforum.ru/files/file/1337-mcj-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%81%D0%B6%D0%B0%D1%82%D0%B8%D0%B5-css-js/\" title=\"MCJ - Автоматическое объединение и сжатие CSS, JS 1.3\">MCJ - Автоматическое объединение и сжатие CSS, JS 1.3</a></li></ul>
-</body></html> ";
 ?>
+<html>
+  <head>
+    <title>Русский языковой пакет успешно установлен</title>
+  </head>
+  <body>
+    <h1>Русский языковой пакет успешно установлен. Теперь необходимо очистить кэш OpenCart</h1>
+  </body>
+</html>
